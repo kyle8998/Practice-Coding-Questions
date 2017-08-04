@@ -16,6 +16,7 @@ Personal Practice Set - Doing One a Day in a Variety of Languages!!
 | 13 | Easy       | [Roman to Integer](leetcode/13-Easy-Roman-To-Integer/problem.md)                             | [C](leetcode/13-Easy-Roman-To-Integer/answer.c)                 |
 | 14 | Easy       | [Longest Common Prefix](leetcode/14-Easy-Longest-Common-Prefix/problem.md)                   | [Python](leetcode/14-Easy-Longest-Common-Prefix/answer.py)      |
 | 20 | Easy       | [Valid Parentheses](leetcode/20-Easy-Valid-Parentheses/problem.md)                           | [Java](leetcode/20-Easy-Valid-Parentheses/answer.java)          |
+| 21 | Easy       | [Merge Two Sorted Lists](leetcode/21-Easy-Merge-Two-Sorted-Lists/problem.md)                 | [Java](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.java)     |
 | 26 | Easy       | [Remove Duplicates from Sorted Array](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/problem.md) | [C](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/answer.c), [Python](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/answer.py) |
 | 35 | Easy       | [Search Insert Position](leetcode/35-Easy-Search-Insert-Position/problem.md)                 |  [Go](leetcode/35-Easy-Search-Insert-Position/answer.go), [Java](leetcode/35-Easy-Search-Insert-Position/answer.java), [JavaScript](leetcode/35-Easy-Search-Insert-Position/answer.js), [Scala](leetcode/35-Easy-Search-Insert-Position/answer.scala) |
 
