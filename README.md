@@ -41,5 +41,11 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 
 ---
 
-## Hackerrank
-Nothing yet!
+## Hackerrank - 30 Days of Code
+
+| Day| Difficulty | Problem                                                                                      | Solution                                                        |
+| -- | ---------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 0  |            | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world)                        | [Java](hackerrank/30-days-of-code/day-0.java)                   |
+| 1  |            | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                            | [Java](hackerrank/30-days-of-code/day-1.java)                   |
+| 2  |            | [Operators](https://www.hackerrank.com/challenges/30-operators)                              | [Java](hackerrank/30-days-of-code/day-2.java)                   |
+
