@@ -48,4 +48,6 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 0  |            | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world)                        | [Java](hackerrank/30-days-of-code/day-0.java)                   |
 | 1  |            | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                            | [Java](hackerrank/30-days-of-code/day-1.java)                   |
 | 2  |            | [Operators](https://www.hackerrank.com/challenges/30-operators)                              | [Java](hackerrank/30-days-of-code/day-2.java)                   |
+| 3  |            | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)    | [Python](hackerrank/30-days-of-code/day-3.py)                   |
+| 4  |            | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)    	         | [Python](hackerrank/30-days-of-code/day-4.py)                   |
 
