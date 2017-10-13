@@ -45,9 +45,11 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 
 | Day| Difficulty | Problem                                                                                      | Solution                                                        |
 | -- | ---------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 0  |            | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world)                        | [Java](hackerrank/30-days-of-code/day-0.java)                   |
-| 1  |            | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                            | [Java](hackerrank/30-days-of-code/day-1.java)                   |
-| 2  |            | [Operators](https://www.hackerrank.com/challenges/30-operators)                              | [Java](hackerrank/30-days-of-code/day-2.java)                   |
-| 3  |            | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)    | [Python](hackerrank/30-days-of-code/day-3.py)                   |
-| 4  |            | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)    	         | [Python](hackerrank/30-days-of-code/day-4.py)                   |
+| 0  | Easy       | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world)                        | [Java](hackerrank/30-days-of-code/day-0.java)                   |
+| 1  | Easy       | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                            | [Java](hackerrank/30-days-of-code/day-1.java)                   |
+| 2  | Easy       | [Operators](https://www.hackerrank.com/challenges/30-operators)                              | [Java](hackerrank/30-days-of-code/day-2.java)                   |
+| 3  | Easy       | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)    | [Python](hackerrank/30-days-of-code/day-3.py)                   |
+| 4  | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)    	         | [Python](hackerrank/30-days-of-code/day-4.py)                   |
+| 5  | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-loops)  		     	         | [Python](hackerrank/30-days-of-code/day-5.py)                   |
+| 6  | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-review-loop)    	   	         | [Python](hackerrank/30-days-of-code/day-6.py)                   |
 
