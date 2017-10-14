@@ -50,6 +50,6 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 2  | Easy       | [Operators](https://www.hackerrank.com/challenges/30-operators)                              | [Java](hackerrank/30-days-of-code/day-2.java)                   |
 | 3  | Easy       | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)    | [Python](hackerrank/30-days-of-code/day-3.py)                   |
 | 4  | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)    	         | [Python](hackerrank/30-days-of-code/day-4.py)                   |
-| 5  | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-loops)  		     	         | [Python](hackerrank/30-days-of-code/day-5.py)                   |
-| 6  | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-review-loop)    	   	         | [Python](hackerrank/30-days-of-code/day-6.py)                   |
-
+| 5  | Easy       | [Loops](https://www.hackerrank.com/challenges/30-loops)  		     	   			         | [Python](hackerrank/30-days-of-code/day-5.py)                   |
+| 6  | Easy       | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)    	     	         | [Python](hackerrank/30-days-of-code/day-6.py)                   |
+| 7  | Easy       | [Arrays](https://www.hackerrank.com/challenges/30-arrays)	    	   	     			     | [Python](hackerrank/30-days-of-code/day-7.py)                   |
