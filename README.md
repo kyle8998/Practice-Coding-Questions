@@ -53,3 +53,4 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 5  | Easy       | [Loops](https://www.hackerrank.com/challenges/30-loops)  		     	   			         | [Python](hackerrank/30-days-of-code/day-5.py)                   |
 | 6  | Easy       | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)    	     	         | [Python](hackerrank/30-days-of-code/day-6.py)                   |
 | 7  | Easy       | [Arrays](https://www.hackerrank.com/challenges/30-arrays)	    	   	     			     | [Python](hackerrank/30-days-of-code/day-7.py)                   |
+| 8  | Easy       | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)      | [Python](hackerrank/30-days-of-code/day-8.py)                   |
