@@ -23,9 +23,10 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 22 | Medium     | [Generate Parentheses](leetcode/22-Medium-Generate-Parentheses/problem.md)                   | [Python](leetcode/22-Medium-Generate-Parentheses/answer.py)      |
 | 26 | Easy       | [Remove Duplicates from Sorted Array](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/problem.md) | [C](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/answer.c), [Python](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/answer.py) |
 | 27 | Easy       | [Remove Element](leetcode/27-Easy-Remove-Element/problem.md)                                 | [Python](leetcode/27-Easy-Remove-Element/answer.py)              |
-| 28 | Easy       | [Implement strStr()](leetcode/28-Easy-Implement-strStr/problem.md)                                | [C](leetcode/28-Easy-Implement-strStr/answer.c), [Python](leetcode/28-Easy-Implement-strStr/answer.py) |
+| 28 | Easy       | [Implement strStr()](leetcode/28-Easy-Implement-strStr/problem.md)                           | [C](leetcode/28-Easy-Implement-strStr/answer.c), [Python](leetcode/28-Easy-Implement-strStr/answer.py) |
 | 35 | Easy       | [Search Insert Position](leetcode/35-Easy-Search-Insert-Position/problem.md)                 | [Go](leetcode/35-Easy-Search-Insert-Position/answer.go), [Java](leetcode/35-Easy-Search-Insert-Position/answer.java), [JavaScript](leetcode/35-Easy-Search-Insert-Position/answer.js), [Scala](leetcode/35-Easy-Search-Insert-Position/answer.scala) |
 | 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)            |
+| 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
 
