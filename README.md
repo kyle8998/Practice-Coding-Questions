@@ -61,3 +61,14 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 12 | Easy       | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance)		  			 		 | [Python](hackerrank/30-days-of-code/day-12.py)                  |
 | 13 | Easy       | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)  		 		 | [Python](hackerrank/30-days-of-code/day-13.py)                  |
 | 14 | Easy       | [Scope](https://www.hackerrank.com/challenges/30-scope)	 									 | [Python](hackerrank/30-days-of-code/day-14.py)                  |
+
+---
+
+## Google Foobar Challenge
+
+|  # | Level	  | Problem                                                                                      | Solution                                                        |
+| -- | ---------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 1  | 1          | [Solar Doomsday](Google_Foobar/Solar_Doomsday/problem.md)          						     | [Java](Google_Foobar/Solar_Doomsday/answer.java)                |
+| 2  | 2          | [Gearing Up For Destruction](Google_Foobar/Gearing_Up_For_Destruction/problem.md)     	     | [Python](Google_Foobar/Gearing_Up_For_Destruction/answer.py)    |
+| 3  | 2          | [Lovely Lucky Lambs](Google_Foobar/Lovely_Lucky_Lambs/problem.md)          			         | [Python](Google_Foobar/Lovely_Lucky_Lambs/answer.py)            |
+
