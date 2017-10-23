@@ -63,6 +63,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 13 | Easy       | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)  		 		 | [Python](hackerrank/30-days-of-code/day-13.py)                  |
 | 14 | Easy       | [Scope](https://www.hackerrank.com/challenges/30-scope)	 									 | [Python](hackerrank/30-days-of-code/day-14.py)                  |
 | 15 | Easy       | [Linked List](https://www.hackerrank.com/challenges/30-linked-list)							 | [Python](hackerrank/30-days-of-code/day-15.py)                  |
+| 16 | Easy       | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | [Python](hackerrank/30-days-of-code/day-16.py)       |
 
 ---
 
