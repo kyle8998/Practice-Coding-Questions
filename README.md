@@ -52,18 +52,19 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 2  | Easy       | [Operators](https://www.hackerrank.com/challenges/30-operators)                              | [Java](hackerrank/30-days-of-code/day-2.java)                   |
 | 3  | Easy       | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)    | [Python](hackerrank/30-days-of-code/day-3.py)                   |
 | 4  | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)    	         | [Python](hackerrank/30-days-of-code/day-4.py)                   |
-| 5  | Easy       | [Loops](https://www.hackerrank.com/challenges/30-loops)  		     	   			         | [Python](hackerrank/30-days-of-code/day-5.py)                   |
+| 5  | Easy       | [Loops](https://www.hackerrank.com/challenges/30-loops)  		     	   		 | [Python](hackerrank/30-days-of-code/day-5.py)                   |
 | 6  | Easy       | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)    	     	         | [Python](hackerrank/30-days-of-code/day-6.py)                   |
-| 7  | Easy       | [Arrays](https://www.hackerrank.com/challenges/30-arrays)	    	   	     			     | [Python](hackerrank/30-days-of-code/day-7.py)                   |
+| 7  | Easy       | [Arrays](https://www.hackerrank.com/challenges/30-arrays)	    	   	     	         | [Python](hackerrank/30-days-of-code/day-7.py)                   |
 | 8  | Easy       | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)      | [Python](hackerrank/30-days-of-code/day-8.py)                   |
-| 9  | Easy       | [Recursion](https://www.hackerrank.com/challenges/30-recursion)   							 | [Python](hackerrank/30-days-of-code/day-9.py)                   |
-| 10 | Easy       | [Binary Number](https://www.hackerrank.com/challenges/30-binary-numbers)			  		 | [Python](hackerrank/30-days-of-code/day-10.py)                  |
-| 11 | Easy       | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays)			  			 		 | [Python](hackerrank/30-days-of-code/day-11.py)                  |
-| 12 | Easy       | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance)		  			 		 | [Python](hackerrank/30-days-of-code/day-12.py)                  |
-| 13 | Easy       | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)  		 		 | [Python](hackerrank/30-days-of-code/day-13.py)                  |
-| 14 | Easy       | [Scope](https://www.hackerrank.com/challenges/30-scope)	 									 | [Python](hackerrank/30-days-of-code/day-14.py)                  |
-| 15 | Easy       | [Linked List](https://www.hackerrank.com/challenges/30-linked-list)							 | [Python](hackerrank/30-days-of-code/day-15.py)                  |
+| 9  | Easy       | [Recursion](https://www.hackerrank.com/challenges/30-recursion)   				 | [Python](hackerrank/30-days-of-code/day-9.py)                   |
+| 10 | Easy       | [Binary Number](https://www.hackerrank.com/challenges/30-binary-numbers)			 | [Python](hackerrank/30-days-of-code/day-10.py)                  |
+| 11 | Easy       | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays)			         | [Python](hackerrank/30-days-of-code/day-11.py)                  |
+| 12 | Easy       | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance)		  		 | [Python](hackerrank/30-days-of-code/day-12.py)                  |
+| 13 | Easy       | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)  		 | [Python](hackerrank/30-days-of-code/day-13.py)                  |
+| 14 | Easy       | [Scope](https://www.hackerrank.com/challenges/30-scope)	 				 | [Python](hackerrank/30-days-of-code/day-14.py)                  |
+| 15 | Easy       | [Linked List](https://www.hackerrank.com/challenges/30-linked-list)				 | [Python](hackerrank/30-days-of-code/day-15.py)                  |
 | 16 | Easy       | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | [Python](hackerrank/30-days-of-code/day-16.py)       |
+| 17 | Easy       | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) 		 | [Python](hackerrank/30-days-of-code/day-17.py)       	   |
 
 ---
 
@@ -71,7 +72,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 
 |  # | Level	  | Problem                                                                                      | Solution                                                        |
 | -- | ---------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 1  | 1          | [Solar Doomsday](Google_Foobar/Solar_Doomsday/problem.md)          						     | [Java](Google_Foobar/Solar_Doomsday/answer.java)                |
-| 2  | 2          | [Gearing Up For Destruction](Google_Foobar/Gearing_Up_For_Destruction/problem.md)     	     | [Python](Google_Foobar/Gearing_Up_For_Destruction/answer.py)    |
-| 3  | 2          | [Lovely Lucky Lambs](Google_Foobar/Lovely_Lucky_Lambs/problem.md)          			         | [Python](Google_Foobar/Lovely_Lucky_Lambs/answer.py)            |
+| 1  | 1          | [Solar Doomsday](Google_Foobar/Solar_Doomsday/problem.md)          				 | [Java](Google_Foobar/Solar_Doomsday/answer.java)                |
+| 2  | 2          | [Gearing Up For Destruction](Google_Foobar/Gearing_Up_For_Destruction/problem.md)            | [Python](Google_Foobar/Gearing_Up_For_Destruction/answer.py)    |
+| 3  | 2          | [Lovely Lucky Lambs](Google_Foobar/Lovely_Lucky_Lambs/problem.md)          		         | [Python](Google_Foobar/Lovely_Lucky_Lambs/answer.py)            |
 
