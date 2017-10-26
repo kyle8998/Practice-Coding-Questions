@@ -29,7 +29,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
-| 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Serialize-And-Deserialize-Binary-Tree/answer.java)            |
+| 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Serialize-And-Deserialize-Binary-Tree/answer.java) |
 
 ---
 
@@ -52,7 +52,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 2  | Easy       | [Operators](https://www.hackerrank.com/challenges/30-operators)                              | [Java](hackerrank/30-days-of-code/day-2.java)                   |
 | 3  | Easy       | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)    | [Python](hackerrank/30-days-of-code/day-3.py)                   |
 | 4  | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)    	         | [Python](hackerrank/30-days-of-code/day-4.py)                   |
-| 5  | Easy       | [Loops](https://www.hackerrank.com/challenges/30-loops)  		     	   		 | [Python](hackerrank/30-days-of-code/day-5.py)                   |
+| 5  | Easy       | [Loops](https://www.hackerrank.com/challenges/30-loops)                                      | [Python](hackerrank/30-days-of-code/day-5.py)                   |
 | 6  | Easy       | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)    	     	         | [Python](hackerrank/30-days-of-code/day-6.py)                   |
 | 7  | Easy       | [Arrays](https://www.hackerrank.com/challenges/30-arrays)	    	   	     	         | [Python](hackerrank/30-days-of-code/day-7.py)                   |
 | 8  | Easy       | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)      | [Python](hackerrank/30-days-of-code/day-8.py)                   |
@@ -65,6 +65,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 15 | Easy       | [Linked List](https://www.hackerrank.com/challenges/30-linked-list)				 | [Python](hackerrank/30-days-of-code/day-15.py)                  |
 | 16 | Easy       | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | [Python](hackerrank/30-days-of-code/day-16.py)       |
 | 17 | Easy       | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) 		 | [Python](hackerrank/30-days-of-code/day-17.py)       	   |
+| 18 | Easy       | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)    	             | [Python](hackerrank/30-days-of-code/day-18.py)                  |
 
 ---
 
