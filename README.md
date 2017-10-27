@@ -29,7 +29,8 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
-| 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Serialize-And-Deserialize-Binary-Tree/answer.java) |
+| 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)           |
+| 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
 
 ---
 
