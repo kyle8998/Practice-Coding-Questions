@@ -66,6 +66,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 16 | Easy       | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | [Python](hackerrank/30-days-of-code/day-16.py)       |
 | 17 | Easy       | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) 		 | [Python](hackerrank/30-days-of-code/day-17.py)       	   |
 | 18 | Easy       | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)    	             | [Python](hackerrank/30-days-of-code/day-18.py)                  |
+| 19 | Easy       | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces) 	                         | [Java](hackerrank/30-days-of-code/day-19.java)                  |
 
 ---
 
