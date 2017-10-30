@@ -69,6 +69,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 18 | Easy       | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)    	             | [Python](hackerrank/30-days-of-code/day-18.py)                  |
 | 19 | Easy       | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces) 	                         | [Java](hackerrank/30-days-of-code/day-19.java)                  |
 | 20 | Easy       | [Sorting](https://www.hackerrank.com/challenges/30-sorting)    	                             | [Python](hackerrank/30-days-of-code/day-20.py)                  |
+| 21 | Easy       | [Generics](https://www.hackerrank.com/challenges/30-generics)	                             | [Java](hackerrank/30-days-of-code/day-21.java)                  |
 
 ---
 
