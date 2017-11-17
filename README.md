@@ -71,6 +71,9 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 20 | Easy       | [Sorting](https://www.hackerrank.com/challenges/30-sorting)    	                             | [Python](hackerrank/30-days-of-code/day-20.py)                  |
 | 21 | Easy       | [Generics](https://www.hackerrank.com/challenges/30-generics)	                             | [Java](hackerrank/30-days-of-code/day-21.java)                  |
 | 22 | Easy       | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/)         | [Java](hackerrank/30-days-of-code/day-22.java)                  |
+| 23 | Easy       | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/)          | [Python](hackerrank/30-days-of-code/day-23.py)                  |
+| 24 | Easy       | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/)          | [Python](hackerrank/30-days-of-code/day-24.py)                  |
+
 
 ---
 
@@ -78,7 +81,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 
 |  # | Level	  | Problem                                                                                      | Solution                                                        |
 | -- | ---------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 1  | 1          | [Solar Doomsday](Google_Foobar/Solar_Doomsday/problem.md)          				 | [Java](Google_Foobar/Solar_Doomsday/answer.java)                |
+| 1  | 1          | [Solar Doomsday](Google_Foobar/Solar_Doomsday/problem.md)                                    | [Java](Google_Foobar/Solar_Doomsday/answer.java)                |
 | 2  | 2          | [Gearing Up For Destruction](Google_Foobar/Gearing_Up_For_Destruction/problem.md)            | [Python](Google_Foobar/Gearing_Up_For_Destruction/answer.py)    |
-| 3  | 2          | [Lovely Lucky Lambs](Google_Foobar/Lovely_Lucky_Lambs/problem.md)          		         | [Python](Google_Foobar/Lovely_Lucky_Lambs/answer.py)            |
+| 3  | 2          | [Lovely Lucky Lambs](Google_Foobar/Lovely_Lucky_Lambs/problem.md)                            | [Python](Google_Foobar/Lovely_Lucky_Lambs/answer.py)            |
 
