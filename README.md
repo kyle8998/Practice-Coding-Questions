@@ -27,7 +27,8 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 35 | Easy       | [Search Insert Position](leetcode/35-Easy-Search-Insert-Position/problem.md)                 | [Go](leetcode/35-Easy-Search-Insert-Position/answer.go), [Java](leetcode/35-Easy-Search-Insert-Position/answer.java), [JavaScript](leetcode/35-Easy-Search-Insert-Position/answer.js), [Scala](leetcode/35-Easy-Search-Insert-Position/answer.scala) |
 | 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)            |
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
-| 66 | Easy       | [Same Tree](leetcode/66-Easy-Plus-One/problem.md)                                            | [Python](leetcode/66-Easy-Plus-One/answer.py)                    |
+| 58 | Easy       | [Length of Last Word](leetcode/58-Easy-Length-Of-Last-Word/problem.md)                       | [Python](leetcode/58-Easy-Length-Of-Last-Word/answer.py)         |
+| 66 | Easy       | [Plus One](leetcode/66-Easy-Plus-One/problem.md)                                             | [Python](leetcode/66-Easy-Plus-One/answer.py)                    |
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
 | 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)           |
