@@ -77,8 +77,11 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 22 | Easy       | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/)         | [Java](hackerrank/30-days-of-code/day-22.java)                  |
 | 23 | Easy       | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/)          | [Python](hackerrank/30-days-of-code/day-23.py)                  |
 | 24 | Easy       | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/)          | [Python](hackerrank/30-days-of-code/day-24.py)                  |
-| 25 | Easy       | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/) | [Python](hackerrank/30-days-of-code/day-25.py)          |
+| 25 | Medium     | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/) | [Python](hackerrank/30-days-of-code/day-25.py)          |
 | 26 | Easy       | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/)                       | [Python](hackerrank/30-days-of-code/day-26.py)                  |
+| 27 | Easy       | [Testing](https://www.hackerrank.com/challenges/30-testing/)                                 | [Python](hackerrank/30-days-of-code/day-27.py)                  |
+| 28 | Medium     | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/) | [Python](hackerrank/30-days-of-code/day-28.py)           |
+| 29 | Medium     | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/)                         | [Python](hackerrank/30-days-of-code/day-29.py)                  |
 
 
 ---
