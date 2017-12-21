@@ -86,6 +86,20 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 
 ---
 
+## CTCI
+
+Cracking the Coding Interview 6th Edition Python Solutions
+
+|  # | Difficulty | Problem                                                                                      | Solution                                                        |
+| -- | ---------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 1.1|            | Is Unique                                                                                    | [Python](CTCI/Chapter1/1.1-Is_Unique.py)                        |
+| 1.2|            | Check Permutation                                                                            | [Python](CTCI/Chapter1/1.2-Check_Permutation.py)                |
+| 1.3|            | URLify                                                                                       | [Python](CTCI/Chapter1/1.3-URLify.py)                           |
+| 1.4|            |                                                                                              |                                                                 |
+
+
+---
+
 ## Google Foobar Challenge
 
 |  # | Level	  | Problem                                                                                      | Solution                                                        |
