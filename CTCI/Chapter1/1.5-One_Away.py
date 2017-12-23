@@ -1,5 +1,5 @@
-# CTCI 1.2
-# Check Permutation
+# CTCI 1.5
+# One Away
 
 import unittest
 from collections import Counter
@@ -52,7 +52,7 @@ def one_away(str1, str2):
 #-------------------------------------------------------------------------------
 # CTCI Solution
 
-def one_away(s1, s2):
+def one_away2(s1, s2):
     '''Check if a string can converted to another string with a single edit'''
     if len(s1) == len(s2):
         return one_edit_replace(s1, s2)

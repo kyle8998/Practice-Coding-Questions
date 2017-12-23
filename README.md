@@ -98,7 +98,12 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 1.3|            | URLify                                                                                       | [Python](CTCI/Chapter1/1.3-URLify.py)                           |
 | 1.4|            | Palindrome Permutation                                                                       | [Python](CTCI/Chapter1/1.4-Palindrome_Permutation.py)           |
 | 1.5|            | One Away                                                                                     | [Python](CTCI/Chapter1/1.5-One_Away.py)                         |
-
+| 1.6|            | String Compression                                                                           | [Python](CTCI/Chapter1/1.6-String_Compression.py)               |
+| 1.7|            | Rotate Matrix                                                                                | [Python](CTCI/Chapter1/1.7-Rotate_Matrix.py)                    |
+| 1.8|            | Zero Matrix                                                                                  | [Python](CTCI/Chapter1/1.8-Zero_Matrix.py)                      |
+| 1.9|            | String Rotation                                                                              | [Python](CTCI/Chapter1/1.9-String_Rotation.py)                  |
+|    |            |                                                                                              |                                                                 |
+| 2.1|            | Remove Dups                                                                                  | [Python](CTCI/Chapter2/2.1-Remove_Dups.py)                      |
 
 ---
 

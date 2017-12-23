@@ -1,5 +1,5 @@
-# CTCI 1.2
-# Check Permutation
+# CTCI 1.4
+# Palindrome Permutation
 
 import unittest
 from collections import Counter
