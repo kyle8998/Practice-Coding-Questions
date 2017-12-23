@@ -32,6 +32,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 58 | Easy       | [Length of Last Word](leetcode/58-Easy-Length-Of-Last-Word/problem.md)                       | [Python](leetcode/58-Easy-Length-Of-Last-Word/answer.py)         |
 | 66 | Easy       | [Plus One](leetcode/66-Easy-Plus-One/problem.md)                                             | [Python](leetcode/66-Easy-Plus-One/answer.py)                    |
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
+| 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
 | 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)           |
 | 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
@@ -95,7 +96,8 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 1.1|            | Is Unique                                                                                    | [Python](CTCI/Chapter1/1.1-Is_Unique.py)                        |
 | 1.2|            | Check Permutation                                                                            | [Python](CTCI/Chapter1/1.2-Check_Permutation.py)                |
 | 1.3|            | URLify                                                                                       | [Python](CTCI/Chapter1/1.3-URLify.py)                           |
-| 1.4|            |                                                                                              |                                                                 |
+| 1.4|            | Palindrome Permutation                                                                       | [Python](CTCI/Chapter1/1.4-Palindrome_Permutation.py)           |
+| 1.5|            | One Away                                                                                     | [Python](CTCI/Chapter1/1.5-One_Away.py)                         |
 
 
 ---

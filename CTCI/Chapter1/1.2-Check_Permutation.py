@@ -12,7 +12,7 @@ def check_permutation(str1, str2):
     sorted1 = sorted(str1)
     sorted2 = sorted(str2)
     return sorted1 == sorted2
-    
+
 #-------------------------------------------------------------------------------
 # CTCI Solution
 def check_permutation2(str1, str2):
