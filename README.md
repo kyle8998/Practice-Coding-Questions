@@ -34,6 +34,8 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
+| 136| Easy       | [Single Number](leetcode/136-Easy-Single-Number/problem.md)                                  | [Python](leetcode/136-Easy-Single-Number/answer.py)              |
+| 137| Medium     | [Single Number II](leetcode/137-Medium-Single-Number-II/problem.md)                          | [Python](leetcode/137-Medium-Single-Number-II/answer.py)         |
 | 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)           |
 | 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
 
