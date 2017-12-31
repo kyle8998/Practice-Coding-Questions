@@ -35,6 +35,8 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
+| 104| Easy       | [Maximum Depth of Binary Tree](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/answer.py)|
+| 112| Easy       | [Path Sum](leetcode/112-Easy-Path-Sum/problem.md)                                            | [Python](leetcode/112-Easy-Path-Sum/answer.py)                   |
 | 136| Easy       | [Single Number](leetcode/136-Easy-Single-Number/problem.md)                                  | [Python](leetcode/136-Easy-Single-Number/answer.py)              |
 | 137| Medium     | [Single Number II](leetcode/137-Medium-Single-Number-II/problem.md)                          | [Python](leetcode/137-Medium-Single-Number-II/answer.py)         |
 | 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)           |
