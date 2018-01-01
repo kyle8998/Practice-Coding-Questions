@@ -54,7 +54,9 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 
 ---
 
-## Hackerrank - 30 Days of Code
+## Hackerrank
+
+30 Days of Code Challenge
 
 | Day| Difficulty | Problem                                                                                      | Solution                                                        |
 | -- | ---------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -109,6 +111,9 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 1.9|            | String Rotation                                                                              | [Python](CTCI/Chapter1/1.9-String_Rotation.py)                  |
 |    |            |                                                                                              |                                                                 |
 | 2.1|            | Remove Dups                                                                                  | [Python](CTCI/Chapter2/2.1-Remove_Dups.py)                      |
+| 2.2|            | Return Kth to Last                                                                           | [Python](CTCI/Chapter2/2.2-Return_Kth_To_Last.py)               |
+| 2.3|            | Delete Middle Node                                                                           | [Python](CTCI/Chapter2/2.3-Delete_Middle_Node.py)               |
+| 2.4|            | Partition                                                                                    | [Python](CTCI/Chapter2/2.4-Partition.py)                        |
 
 ---
 
