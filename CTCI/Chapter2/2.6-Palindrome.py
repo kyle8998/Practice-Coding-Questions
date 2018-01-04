@@ -1,5 +1,5 @@
-# CTCI 2.5
-# Sum Lists
+# CTCI 2.6
+# Palindrome
 
 import unittest
 #from LinkedList import LinkedList

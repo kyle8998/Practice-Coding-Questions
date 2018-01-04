@@ -1,5 +1,5 @@
-# CTCI 2.5
-# Sum Lists
+# CTCI 2.7
+# Intersection
 
 import unittest
 #from LinkedList import LinkedList

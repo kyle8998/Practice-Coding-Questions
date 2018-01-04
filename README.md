@@ -116,7 +116,8 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 2.4|            | Partition                                                                                    | [Python](CTCI/Chapter2/2.4-Partition.py)                        |
 | 2.5|            | Sum Lists                                                                                    | [Python](CTCI/Chapter2/2.5-Sum_Lists.py)                        |
 | 2.6|            | Palindrome                                                                                   | [Python](CTCI/Chapter2/2.6-Palindrome.py)                       |
-| 2.7|            | Intersection                                                                                 | [Python](CTCI/Chapter2/2.7-Intersection.py)                       |
+| 2.7|            | Intersection                                                                                 | [Python](CTCI/Chapter2/2.7-Intersection.py)                     |
+| 2.8|            | Loop Detection                                                                               | [Python](CTCI/Chapter2/2.8-Loop_Detection.py)                   |
 
 ---
 
