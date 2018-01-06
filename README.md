@@ -119,7 +119,9 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 2.7|            | Intersection                                                                                 | [Python](CTCI/Chapter2/2.7-Intersection.py)                     |
 | 2.8|            | Loop Detection                                                                               | [Python](CTCI/Chapter2/2.8-Loop_Detection.py)                   |
 |    |            |                                                                                              |                                                                 |
-| 3.1|            | Three in One                                                                                 | [Python](CTCI/Chapter2/3.1-Three_In_One.py)                     |
+| 3.1|            | Three in One                                                                                 | [Python](CTCI/Chapter3/3.1-Three_In_One.py)                     |
+| 3.2|            | Stack Min                                                                                    | [Python](CTCI/Chapter3/3.2-Stack_Min.py)                        |
+| 3.3|            | Stack of Plates                                                                              | [Python](CTCI/Chapter3/3.3-Stack_Of_Plates.py)                  |
 
 ---
 
