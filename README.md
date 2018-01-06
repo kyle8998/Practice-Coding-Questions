@@ -11,6 +11,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 2  | Medium     | [Add Two Numbers](leetcode/2-Medium-Add-Two-Numbers/problem.md)                              | [C](leetcode/2-Medium-Add-Two-Numbers/answer.c)                  |
 | 3  | Medium     | [Longest Substring Without Repeating Characters](leetcode/3-Medium-Longest-Substring-Without-Repeating-Characters/problem.md) | [Python](leetcode/3-Medium-Longest-Substring-Without-Repeating-Characters/answer.py) |
 | 4  | Hard       | [Median of Two Sorted Arrays](leetcode/4-Hard-Median-Of-Two-Sorted-Arrays/problem.md)        | [Python](leetcode/4-Hard-Median-Of-Two-Sorted-Arrays/answer.py)  |
+| 5  | Medium     | [Longest Palindromic Substring](leetcode/5-Medium-Longest-Palindromic-Substring/problem.md)  | [Python](leetcode/5-Medium-Longest-Palindromic-Substring/answer.py) |
 | 6  | Medium     | [Zig Zag Conversion](leetcode/6-Medium-Zig-Zag-Conversion/problem.md)                        | [Java](leetcode/6-Medium-Zig-Zag-Conversion/answer.java)         |
 | 7  | Easy       | [Reverse Integer](leetcode/7-Easy-Reverse-Integer/problem.md)                                | [Python](leetcode/7-Easy-Reverse-Integer/answer.py)              |
 | 9  | Easy       | [Palindrome Number](leetcode/9-Easy-Palindrome-Number/problem.md)                            | [C](leetcode/9-Easy-Palindrome-Number/answer.c), [Java](leetcode/9-Easy-Palindrome-Number/answer.java), [Python](leetcode/9-Easy-Palindrome-Number/answer.py), [Swift](leetcode/9-Easy-Palindrome-Number/answer.swift) |
