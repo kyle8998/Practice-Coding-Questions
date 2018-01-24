@@ -19,6 +19,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 13 | Easy       | [Roman to Integer](leetcode/13-Easy-Roman-To-Integer/problem.md)                             | [C](leetcode/13-Easy-Roman-To-Integer/answer.c)                  |
 | 14 | Easy       | [Longest Common Prefix](leetcode/14-Easy-Longest-Common-Prefix/problem.md)                   | [Python](leetcode/14-Easy-Longest-Common-Prefix/answer.py)       |
 | 15 | Medium     | [3Sum](leetcode/15-Medium-3Sum/problem.md)                                                   | [Python](leetcode/15-Medium-3Sum/answer.py)                      |
+| 16 | Medium     | [3Sum Closest](leetcode/16-Medium-3Sum-Closest/problem.md)                                   | [Python](leetcode/16-Medium-3Sum-Closest/answer.py)              |
 | 20 | Easy       | [Valid Parentheses](leetcode/20-Easy-Valid-Parentheses/problem.md)                           | [Java](leetcode/20-Easy-Valid-Parentheses/answer.java)           |
 | 21 | Easy       | [Merge Two Sorted Lists](leetcode/21-Easy-Merge-Two-Sorted-Lists/problem.md)                 | [Java](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.java)      |
 | 22 | Medium     | [Generate Parentheses](leetcode/22-Medium-Generate-Parentheses/problem.md)                   | [Python](leetcode/22-Medium-Generate-Parentheses/answer.py)      |
