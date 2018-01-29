@@ -35,6 +35,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
 | 58 | Easy       | [Length of Last Word](leetcode/58-Easy-Length-Of-Last-Word/problem.md)                       | [Python](leetcode/58-Easy-Length-Of-Last-Word/answer.py)         |
 | 66 | Easy       | [Plus One](leetcode/66-Easy-Plus-One/problem.md)                                             | [Python](leetcode/66-Easy-Plus-One/answer.py)                    |
+| 69 | Easy       | [Sqrt()](leetcode/69-Easy-Sqrt/problem.md)                                                   | [Python](leetcode/69-Easy-Sqrt/answer.py)                        |
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
