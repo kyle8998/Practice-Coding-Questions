@@ -33,6 +33,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 36 | Medium     | [Valid Sudoku](leetcode/36-Medium-Valid-Sudoku/problem.md)                                   | [Python](leetcode/36-Medium-Valid-Sudoku/answer.py)              |
 | 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)            |
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
+| 56 | Medium     | [Merge Intervals](leetcode/56-Medium-Merge-Intervals/problem.md)                              | [Python](leetcode/56-Medium-Merge-Intervals/answer.py)          |
 | 58 | Easy       | [Length of Last Word](leetcode/58-Easy-Length-Of-Last-Word/problem.md)                       | [Python](leetcode/58-Easy-Length-Of-Last-Word/answer.py)         |
 | 66 | Easy       | [Plus One](leetcode/66-Easy-Plus-One/problem.md)                                             | [Python](leetcode/66-Easy-Plus-One/answer.py)                    |
 | 69 | Easy       | [Sqrt()](leetcode/69-Easy-Sqrt/problem.md)                                                   | [Python](leetcode/69-Easy-Sqrt/answer.py)                        |
