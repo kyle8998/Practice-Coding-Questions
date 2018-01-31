@@ -31,9 +31,10 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 29 | Medium     | [Divide Two Integers](leetcode/29-Medium-Divide-Two-Integers/problem.md)                     | [Python](leetcode/29-Medium-Divide-Two-Integers/answer.py)       |
 | 35 | Easy       | [Search Insert Position](leetcode/35-Easy-Search-Insert-Position/problem.md)                 | [Go](leetcode/35-Easy-Search-Insert-Position/answer.go), [Java](leetcode/35-Easy-Search-Insert-Position/answer.java), [JavaScript](leetcode/35-Easy-Search-Insert-Position/answer.js), [Scala](leetcode/35-Easy-Search-Insert-Position/answer.scala) |
 | 36 | Medium     | [Valid Sudoku](leetcode/36-Medium-Valid-Sudoku/problem.md)                                   | [Python](leetcode/36-Medium-Valid-Sudoku/answer.py)              |
+| 46 | Medium     | [Valid Sudoku](leetcode/46-Medium-Permutations/problem.md)                                   | [Python](leetcode/46-Medium-Permutations/answer.py)              |
 | 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)            |
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
-| 56 | Medium     | [Merge Intervals](leetcode/56-Medium-Merge-Intervals/problem.md)                              | [Python](leetcode/56-Medium-Merge-Intervals/answer.py)          |
+| 56 | Medium     | [Merge Intervals](leetcode/56-Medium-Merge-Intervals/problem.md)                             | [Python](leetcode/56-Medium-Merge-Intervals/answer.py)           |
 | 58 | Easy       | [Length of Last Word](leetcode/58-Easy-Length-Of-Last-Word/problem.md)                       | [Python](leetcode/58-Easy-Length-Of-Last-Word/answer.py)         |
 | 66 | Easy       | [Plus One](leetcode/66-Easy-Plus-One/problem.md)                                             | [Python](leetcode/66-Easy-Plus-One/answer.py)                    |
 | 69 | Easy       | [Sqrt()](leetcode/69-Easy-Sqrt/problem.md)                                                   | [Python](leetcode/69-Easy-Sqrt/answer.py)                        |
