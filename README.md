@@ -14,6 +14,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages!!
 | 5  | Medium     | [Longest Palindromic Substring](leetcode/5-Medium-Longest-Palindromic-Substring/problem.md)  | [Python](leetcode/5-Medium-Longest-Palindromic-Substring/answer.py) |
 | 6  | Medium     | [Zig Zag Conversion](leetcode/6-Medium-Zig-Zag-Conversion/problem.md)                        | [Java](leetcode/6-Medium-Zig-Zag-Conversion/answer.java)         |
 | 7  | Easy       | [Reverse Integer](leetcode/7-Easy-Reverse-Integer/problem.md)                                | [Python](leetcode/7-Easy-Reverse-Integer/answer.py)              |
+| 8  | Medium     | [String to Integer](leetcode/8-Medium-Atoi/problem.md)                                       | [Ruby](leetcode/8-Medium-Atoi/answer.rb)                         |
 | 9  | Easy       | [Palindrome Number](leetcode/9-Easy-Palindrome-Number/problem.md)                            | [C](leetcode/9-Easy-Palindrome-Number/answer.c), [Java](leetcode/9-Easy-Palindrome-Number/answer.java), [Python](leetcode/9-Easy-Palindrome-Number/answer.py), [Swift](leetcode/9-Easy-Palindrome-Number/answer.swift) |
 | 12 | Medium     | [Integer to Roman](leetcode/12-Medium-Integer-To-Roman/problem.md)                           | [Python](leetcode/12-Medium-Integer-To-Roman/answer.py)          |
 | 13 | Easy       | [Roman to Integer](leetcode/13-Easy-Roman-To-Integer/problem.md)                             | [C](leetcode/13-Easy-Roman-To-Integer/answer.c)                  |
