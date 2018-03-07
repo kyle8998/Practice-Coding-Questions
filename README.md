@@ -131,6 +131,10 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 3.1|            | Three in One                                                                                 | [Python](CTCI/Chapter3/3.1-Three_In_One.py)                     |
 | 3.2|            | Stack Min                                                                                    | [Python](CTCI/Chapter3/3.2-Stack_Min.py)                        |
 | 3.3|            | Stack of Plates                                                                              | [Python](CTCI/Chapter3/3.3-Stack_Of_Plates.py)                  |
+|    |            |                                                                                              |                                                                 |
+| 4.1|            | Route Between Nodes                                                                          | [Python](CTCI/Chapter4/4.1-Route_Between_Nodes.py)              |
+| 4.2|            | Minimal Tree                                                                                 | [Python](CTCI/Chapter4/4.2-Minimal_Tree.py)                     |
+| 4.3|            | List of Depths                                                                               | Next                                                            |
 
 ---
 
