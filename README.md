@@ -135,6 +135,7 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 4.1|            | Route Between Nodes                                                                          | [Python](CTCI/Chapter4/4.1-Route_Between_Nodes.py)              |
 | 4.2|            | Minimal Tree                                                                                 | [Python](CTCI/Chapter4/4.2-Minimal_Tree.py)                     |
 | 4.3|            | List of Depths                                                                               | [Python](CTCI/Chapter4/4.3-List-Of-Depths.py)                   |
+| 4.4|            | Check Balanced                                                                               | [Python](CTCI/Chapter4/4.4-Check-Balanced.py)                   |
 
 ---
 
