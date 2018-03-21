@@ -139,6 +139,7 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 4.3|            | List of Depths                                                                               | [Python](CTCI/Chapter4/4.3-List_Of_Depths.py)                   |
 | 4.4|            | Check Balanced                                                                               | [Python](CTCI/Chapter4/4.4-Check_Balanced.py)                   |
 | 4.5|            | Validate BST                                                                                 | [Python](CTCI/Chapter4/4.5-Validate_BST.py)                     |
+| 4.6|            | Successor                                                                                    | [Python](CTCI/Chapter4/4.6-Successor.py)                        |
 
 ---
 
