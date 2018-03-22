@@ -140,6 +140,7 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 4.4|            | Check Balanced                                                                               | [Python](CTCI/Chapter4/4.4-Check_Balanced.py)                   |
 | 4.5|            | Validate BST                                                                                 | [Python](CTCI/Chapter4/4.5-Validate_BST.py)                     |
 | 4.6|            | Successor                                                                                    | [Python](CTCI/Chapter4/4.6-Successor.py)                        |
+| 4.7|            | Build Order                                                                                  | [Python](CTCI/Chapter4/4.7-Build_Order.py)                      |
 
 ---
 
