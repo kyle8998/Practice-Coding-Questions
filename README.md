@@ -142,6 +142,7 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 4.6|            | Successor                                                                                    | [Python](CTCI/Chapter4/4.6-Successor.py)                        |
 | 4.7|            | Build Order                                                                                  | [Python](CTCI/Chapter4/4.7-Build_Order.py)                      |
 | 4.8|            | First Common Ancestor                                                                        | [Python](CTCI/Chapter4/4.8-First_Common_Ancestor.py)            |
+| 4.9|            | BST Sequences                                                                                | [Python](CTCI/Chapter4/4.9-BST_Sequences.py)                    |
 
 ---
 
