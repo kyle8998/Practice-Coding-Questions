@@ -145,6 +145,9 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 4.9|            | BST Sequences                                                                                | [Python](CTCI/Chapter4/4.9-BST_Sequences.py)                    |
 |4.10|            | Check Subtree                                                                                | [Python](CTCI/Chapter4/4.10-Check_Subtree.py)                   |
 |4.11|            | Random Node                                                                                  | [Python](CTCI/Chapter4/4.11-Random_Node.py)                     |
+|4.12|            | Paths With Sum                                                                               | [Python](CTCI/Chapter4/4.12-Paths_With_Sum.py)                  |
+|    |            |                                                                                              |                                                                 |
+| 5.1|            | Insertion                                                                                    | [Coming Soon](CTCI/Chapter5/5.1-Insertion.py)                   |
 
 ---
 
