@@ -148,6 +148,8 @@ Cracking the Coding Interview 6th Edition Python Solutions
 |4.12|            | Paths With Sum                                                                               | [Python](CTCI/Chapter4/4.12-Paths_With_Sum.py)                  |
 |    |            |                                                                                              |                                                                 |
 | 5.1|            | Insertion                                                                                    | [Coming Soon](CTCI/Chapter5/5.1-Insertion.py)                   |
+|    |            |                                                                                              |                                                                 |
+| 8.1|            | Triple Step                                                                                  | [Python](CTCI/Chapter8/8.1-Triple_Step.py)                      |
 
 ---
 
