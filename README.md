@@ -151,6 +151,7 @@ Cracking the Coding Interview 6th Edition Python Solutions
 |    |            |                                                                                              |                                                                 |
 | 8.1|            | Triple Step                                                                                  | [Python](CTCI/Chapter8/8.1-Triple_Step.py)                      |
 | 8.2|            | Robot in a Grid                                                                              | [Python](CTCI/Chapter8/8.2-Robot_in_a_Grid.py)                  |
+| 8.3|            | Magic Index                                                                                  | [Python](CTCI/Chapter8/8.3-Magic_Index.py)                      |
 
 ---
 
