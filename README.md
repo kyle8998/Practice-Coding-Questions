@@ -33,7 +33,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 29 | Medium     | [Divide Two Integers](leetcode/29-Medium-Divide-Two-Integers/problem.md)                     | [Python](leetcode/29-Medium-Divide-Two-Integers/answer.py)       |
 | 35 | Easy       | [Search Insert Position](leetcode/35-Easy-Search-Insert-Position/problem.md)                 | [Go](leetcode/35-Easy-Search-Insert-Position/answer.go), [Java](leetcode/35-Easy-Search-Insert-Position/answer.java), [JavaScript](leetcode/35-Easy-Search-Insert-Position/answer.js), [Scala](leetcode/35-Easy-Search-Insert-Position/answer.scala) |
 | 36 | Medium     | [Valid Sudoku](leetcode/36-Medium-Valid-Sudoku/problem.md)                                   | [Python](leetcode/36-Medium-Valid-Sudoku/answer.py)              |
-| 46 | Medium     | [Valid Sudoku](leetcode/46-Medium-Permutations/problem.md)                                   | [Python](leetcode/46-Medium-Permutations/answer.py)              |
+| 46 | Medium     | [Permutations](leetcode/46-Medium-Permutations/problem.md)                                   | [Python](leetcode/46-Medium-Permutations/answer.py)              |
 | 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)            |
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
 | 56 | Medium     | [Merge Intervals](leetcode/56-Medium-Merge-Intervals/problem.md)                             | [Python](leetcode/56-Medium-Merge-Intervals/answer.py)           |
@@ -150,6 +150,7 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 5.1|            | Insertion                                                                                    | [Coming Soon](CTCI/Chapter5/5.1-Insertion.py)                   |
 |    |            |                                                                                              |                                                                 |
 | 8.1|            | Triple Step                                                                                  | [Python](CTCI/Chapter8/8.1-Triple_Step.py)                      |
+| 8.2|            | Robot in a Grid                                                                              | [Python](CTCI/Chapter8/8.2-Robot_in_a_Grid.py)                  |
 
 ---
 
