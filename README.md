@@ -2,57 +2,60 @@
 
 Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (Mostly Python)!
 
+[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
+
 ---
 
 ## Leetcode
 
-|  # | Difficulty | Problem                                                                                      | Solution                                                         |
-| -- | ---------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+|  # | Difficulty | Problem                                                                                      | Solution                                                          |
+| -- | ---------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | 1  | Easy       | [Two Sum](leetcode/1-Easy-Two-Sum/problem.md)                                                | [Java](leetcode/1-Easy-Two-Sum/answer.java), [Ruby](leetcode/1-Easy-Two-Sum/answer.rb)|
-| 2  | Medium     | [Add Two Numbers](leetcode/2-Medium-Add-Two-Numbers/problem.md)                              | [C](leetcode/2-Medium-Add-Two-Numbers/answer.c)                  |
+| 2  | Medium     | [Add Two Numbers](leetcode/2-Medium-Add-Two-Numbers/problem.md)                              | [C](leetcode/2-Medium-Add-Two-Numbers/answer.c)                   |
 | 3  | Medium     | [Longest Substring Without Repeating Characters](leetcode/3-Medium-Longest-Substring-Without-Repeating-Characters/problem.md) | [Python](leetcode/3-Medium-Longest-Substring-Without-Repeating-Characters/answer.py) |
-| 4  | Hard       | [Median of Two Sorted Arrays](leetcode/4-Hard-Median-Of-Two-Sorted-Arrays/problem.md)        | [Python](leetcode/4-Hard-Median-Of-Two-Sorted-Arrays/answer.py)  |
+| 4  | Hard       | [Median of Two Sorted Arrays](leetcode/4-Hard-Median-Of-Two-Sorted-Arrays/problem.md)        | [Python](leetcode/4-Hard-Median-Of-Two-Sorted-Arrays/answer.py)   |
 | 5  | Medium     | [Longest Palindromic Substring](leetcode/5-Medium-Longest-Palindromic-Substring/problem.md)  | [Python](leetcode/5-Medium-Longest-Palindromic-Substring/answer.py) |
-| 6  | Medium     | [Zig Zag Conversion](leetcode/6-Medium-Zig-Zag-Conversion/problem.md)                        | [Java](leetcode/6-Medium-Zig-Zag-Conversion/answer.java)         |
-| 7  | Easy       | [Reverse Integer](leetcode/7-Easy-Reverse-Integer/problem.md)                                | [Python](leetcode/7-Easy-Reverse-Integer/answer.py)              |
-| 8  | Medium     | [String to Integer](leetcode/8-Medium-Atoi/problem.md)                                       | [Ruby](leetcode/8-Medium-Atoi/answer.rb)                         |
+| 6  | Medium     | [Zig Zag Conversion](leetcode/6-Medium-Zig-Zag-Conversion/problem.md)                        | [Java](leetcode/6-Medium-Zig-Zag-Conversion/answer.java)          |
+| 7  | Easy       | [Reverse Integer](leetcode/7-Easy-Reverse-Integer/problem.md)                                | [Python](leetcode/7-Easy-Reverse-Integer/answer.py)               |
+| 8  | Medium     | [String to Integer](leetcode/8-Medium-Atoi/problem.md)                                       | [Ruby](leetcode/8-Medium-Atoi/answer.rb)                          |
 | 9  | Easy       | [Palindrome Number](leetcode/9-Easy-Palindrome-Number/problem.md)                            | [C](leetcode/9-Easy-Palindrome-Number/answer.c), [Java](leetcode/9-Easy-Palindrome-Number/answer.java), [Python](leetcode/9-Easy-Palindrome-Number/answer.py), [Swift](leetcode/9-Easy-Palindrome-Number/answer.swift) |
-| 12 | Medium     | [Integer to Roman](leetcode/12-Medium-Integer-To-Roman/problem.md)                           | [Python](leetcode/12-Medium-Integer-To-Roman/answer.py)          |
-| 13 | Easy       | [Roman to Integer](leetcode/13-Easy-Roman-To-Integer/problem.md)                             | [C](leetcode/13-Easy-Roman-To-Integer/answer.c)                  |
-| 14 | Easy       | [Longest Common Prefix](leetcode/14-Easy-Longest-Common-Prefix/problem.md)                   | [Python](leetcode/14-Easy-Longest-Common-Prefix/answer.py)       |
-| 15 | Medium     | [3Sum](leetcode/15-Medium-3Sum/problem.md)                                                   | [Python](leetcode/15-Medium-3Sum/answer.py)                      |
-| 16 | Medium     | [3Sum Closest](leetcode/16-Medium-3Sum-Closest/problem.md)                                   | [Python](leetcode/16-Medium-3Sum-Closest/answer.py)              |
+| 10 | Hard       | [Regular Expression Matching](leetcode/10-Hard-Regular-Expression-Matching/problem.md)       | [Python](leetcode/10-Hard-Regular-Expression-Matching/answer.py)  |
+| 12 | Medium     | [Integer to Roman](leetcode/12-Medium-Integer-To-Roman/problem.md)                           | [Python](leetcode/12-Medium-Integer-To-Roman/answer.py)           |
+| 13 | Easy       | [Roman to Integer](leetcode/13-Easy-Roman-To-Integer/problem.md)                             | [C](leetcode/13-Easy-Roman-To-Integer/answer.c)                   |
+| 14 | Easy       | [Longest Common Prefix](leetcode/14-Easy-Longest-Common-Prefix/problem.md)                   | [Python](leetcode/14-Easy-Longest-Common-Prefix/answer.py)        |
+| 15 | Medium     | [3Sum](leetcode/15-Medium-3Sum/problem.md)                                                   | [Python](leetcode/15-Medium-3Sum/answer.py)                       |
+| 16 | Medium     | [3Sum Closest](leetcode/16-Medium-3Sum-Closest/problem.md)                                   | [Python](leetcode/16-Medium-3Sum-Closest/answer.py)               |
 | 19 | Medium     | [Remove Nth Node From End of List](leetcode/19-Medium-Remove-Nth-Node-From-End-Of-List/problem.md) | [Python](leetcode/19-Medium-Remove-Nth-Node-From-End-Of-List/answer.py) |
-| 20 | Easy       | [Valid Parentheses](leetcode/20-Easy-Valid-Parentheses/problem.md)                           | [Java](leetcode/20-Easy-Valid-Parentheses/answer.java)           |
-| 21 | Easy       | [Merge Two Sorted Lists](leetcode/21-Easy-Merge-Two-Sorted-Lists/problem.md)                 | [Java](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.java)      |
-| 22 | Medium     | [Generate Parentheses](leetcode/22-Medium-Generate-Parentheses/problem.md)                   | [Python](leetcode/22-Medium-Generate-Parentheses/answer.py)      |
-| 24 | Medium     | [Swap Node in Pairs](leetcode/24-Medium-Swap-Nodes-In-Pairs/problem.md)                      | [Python](leetcode/24-Medium-Swap-Nodes-In-Pairs/answer.py)       |
+| 20 | Easy       | [Valid Parentheses](leetcode/20-Easy-Valid-Parentheses/problem.md)                           | [Java](leetcode/20-Easy-Valid-Parentheses/answer.java)            |
+| 21 | Easy       | [Merge Two Sorted Lists](leetcode/21-Easy-Merge-Two-Sorted-Lists/problem.md)                 | [Java](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.java)       |
+| 22 | Medium     | [Generate Parentheses](leetcode/22-Medium-Generate-Parentheses/problem.md)                   | [Python](leetcode/22-Medium-Generate-Parentheses/answer.py)       |
+| 24 | Medium     | [Swap Node in Pairs](leetcode/24-Medium-Swap-Nodes-In-Pairs/problem.md)                      | [Python](leetcode/24-Medium-Swap-Nodes-In-Pairs/answer.py)        |
 | 26 | Easy       | [Remove Duplicates from Sorted Array](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/problem.md) | [C](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/answer.c), [Python](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/answer.py) |
-| 27 | Easy       | [Remove Element](leetcode/27-Easy-Remove-Element/problem.md)                                 | [Python](leetcode/27-Easy-Remove-Element/answer.py)              |
+| 27 | Easy       | [Remove Element](leetcode/27-Easy-Remove-Element/problem.md)                                 | [Python](leetcode/27-Easy-Remove-Element/answer.py)               |
 | 28 | Easy       | [Implement strStr()](leetcode/28-Easy-Implement-strStr/problem.md)                           | [C](leetcode/28-Easy-Implement-strStr/answer.c), [Python](leetcode/28-Easy-Implement-strStr/answer.py) |
-| 29 | Medium     | [Divide Two Integers](leetcode/29-Medium-Divide-Two-Integers/problem.md)                     | [Python](leetcode/29-Medium-Divide-Two-Integers/answer.py)       |
+| 29 | Medium     | [Divide Two Integers](leetcode/29-Medium-Divide-Two-Integers/problem.md)                     | [Python](leetcode/29-Medium-Divide-Two-Integers/answer.py)        |
 | 35 | Easy       | [Search Insert Position](leetcode/35-Easy-Search-Insert-Position/problem.md)                 | [Go](leetcode/35-Easy-Search-Insert-Position/answer.go), [Java](leetcode/35-Easy-Search-Insert-Position/answer.java), [JavaScript](leetcode/35-Easy-Search-Insert-Position/answer.js), [Scala](leetcode/35-Easy-Search-Insert-Position/answer.scala) |
-| 36 | Medium     | [Valid Sudoku](leetcode/36-Medium-Valid-Sudoku/problem.md)                                   | [Python](leetcode/36-Medium-Valid-Sudoku/answer.py)              |
-| 46 | Medium     | [Permutations](leetcode/46-Medium-Permutations/problem.md)                                   | [Python](leetcode/46-Medium-Permutations/answer.py)              |
-| 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)            |
-| 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)             |
-| 56 | Medium     | [Merge Intervals](leetcode/56-Medium-Merge-Intervals/problem.md)                             | [Python](leetcode/56-Medium-Merge-Intervals/answer.py)           |
-| 58 | Easy       | [Length of Last Word](leetcode/58-Easy-Length-Of-Last-Word/problem.md)                       | [Python](leetcode/58-Easy-Length-Of-Last-Word/answer.py)         |
-| 66 | Easy       | [Plus One](leetcode/66-Easy-Plus-One/problem.md)                                             | [Python](leetcode/66-Easy-Plus-One/answer.py)                    |
-| 69 | Easy       | [Sqrt()](leetcode/69-Easy-Sqrt/problem.md)                                                   | [Python](leetcode/69-Easy-Sqrt/answer.py)                        |
-| 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                   |
+| 36 | Medium     | [Valid Sudoku](leetcode/36-Medium-Valid-Sudoku/problem.md)                                   | [Python](leetcode/36-Medium-Valid-Sudoku/answer.py)               |
+| 46 | Medium     | [Permutations](leetcode/46-Medium-Permutations/problem.md)                                   | [Python](leetcode/46-Medium-Permutations/answer.py)               |
+| 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)             |
+| 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)              |
+| 56 | Medium     | [Merge Intervals](leetcode/56-Medium-Merge-Intervals/problem.md)                             | [Python](leetcode/56-Medium-Merge-Intervals/answer.py)            |
+| 58 | Easy       | [Length of Last Word](leetcode/58-Easy-Length-Of-Last-Word/problem.md)                       | [Python](leetcode/58-Easy-Length-Of-Last-Word/answer.py)          |
+| 66 | Easy       | [Plus One](leetcode/66-Easy-Plus-One/problem.md)                                             | [Python](leetcode/66-Easy-Plus-One/answer.py)                     |
+| 69 | Easy       | [Sqrt()](leetcode/69-Easy-Sqrt/problem.md)                                                   | [Python](leetcode/69-Easy-Sqrt/answer.py)                         |
+| 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                    |
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
-| 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                  |
+| 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                   |
 | 104| Easy       | [Maximum Depth of Binary Tree](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/answer.py)|
 | 111| Easy       | [Minimum Depth of Binary Tree](leetcode/111-Easy-Minimum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/111-Easy-Minimum-Depth-Of-Binary-Tree/answer.py)|
-| 112| Easy       | [Path Sum](leetcode/112-Easy-Path-Sum/problem.md)                                            | [Python](leetcode/112-Easy-Path-Sum/answer.py)                   |
-| 136| Easy       | [Single Number](leetcode/136-Easy-Single-Number/problem.md)                                  | [Python](leetcode/136-Easy-Single-Number/answer.py)              |
-| 137| Medium     | [Single Number II](leetcode/137-Medium-Single-Number-II/problem.md)                          | [Python](leetcode/137-Medium-Single-Number-II/answer.py)         |
-| 141| Easy       | [Linked List Cycle](leetcode/141-Easy-Linked-List-Cycle/problem.md)                          | [Python](leetcode/141-Easy-Linked-List-Cycle/answer.py)          |
-| 206| Easy       | [Reverse Linked List](leetcode/206-Easy-Reverse-Linked-List/problem.md)                      | [Python](leetcode/206-Easy-Reverse-Linked-List/answer.py)        |
-| 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)           |
+| 112| Easy       | [Path Sum](leetcode/112-Easy-Path-Sum/problem.md)                                            | [Python](leetcode/112-Easy-Path-Sum/answer.py)                    |
+| 136| Easy       | [Single Number](leetcode/136-Easy-Single-Number/problem.md)                                  | [Python](leetcode/136-Easy-Single-Number/answer.py)               |
+| 137| Medium     | [Single Number II](leetcode/137-Medium-Single-Number-II/problem.md)                          | [Python](leetcode/137-Medium-Single-Number-II/answer.py)          |
+| 141| Easy       | [Linked List Cycle](leetcode/141-Easy-Linked-List-Cycle/problem.md)                          | [Python](leetcode/141-Easy-Linked-List-Cycle/answer.py)           |
+| 206| Easy       | [Reverse Linked List](leetcode/206-Easy-Reverse-Linked-List/problem.md)                      | [Python](leetcode/206-Easy-Reverse-Linked-List/answer.py)         |
+| 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)            |
 | 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
-| 310| Medium     | [Minimum Height Trees](leetcode/310-Minimum-Height-Trees/problem.md)                         | [Python](leetcode/310-Minimum-Height-Trees/answer.py)            |
+| 310| Medium     | [Minimum Height Trees](leetcode/310-Minimum-Height-Trees/problem.md)                         | [Python](leetcode/310-Minimum-Height-Trees/answer.py)             |
 
 ---
 
