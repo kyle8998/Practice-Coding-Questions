@@ -42,6 +42,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 56 | Medium     | [Merge Intervals](leetcode/56-Medium-Merge-Intervals/problem.md)                             | [Python](leetcode/56-Medium-Merge-Intervals/answer.py)            |
 | 58 | Easy       | [Length of Last Word](leetcode/58-Easy-Length-Of-Last-Word/problem.md)                       | [Python](leetcode/58-Easy-Length-Of-Last-Word/answer.py)          |
 | 66 | Easy       | [Plus One](leetcode/66-Easy-Plus-One/problem.md)                                             | [Python](leetcode/66-Easy-Plus-One/answer.py)                     |
+| 67 | Easy       | [Add Binary](leetcode/67-Easy-Add-Binary/problem.md)                                         | [Python](leetcode/67-Easy-Add-Binary/answer.py)                   |
 | 69 | Easy       | [Sqrt()](leetcode/69-Easy-Sqrt/problem.md)                                                   | [Python](leetcode/69-Easy-Sqrt/answer.py)                         |
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                    |
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
