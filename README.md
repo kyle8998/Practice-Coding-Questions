@@ -161,6 +161,7 @@ Cracking the Coding Interview 6th Edition Python Solutions
 | 8.5|            | Recursive Multiply                                                                           | [Python](CTCI/Chapter8/8.5-Recursive_Multiply.py)               |
 | 8.6|            | Towers of Hanoi                                                                              |                                                                 |
 | 8.7|            | Permutations Without Dups                                                                    | [Python](CTCI/Chapter8/8.7-Permutations_Without_Dups.py)        |
+| 8.8|            | Permutations With Dups                                                                       | [Python](CTCI/Chapter8/8.8-Permutations_With_Dups.py)           |
 |    |            |                                                                                              |                                                                 |
 |17.1|            | Add Without Plus                                                                             | [Python](CTCI/Chapter17/17.1-Add_Without_Plus.py)               |
 
