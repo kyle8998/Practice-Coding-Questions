@@ -27,6 +27,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 15 | Medium     | [3Sum](leetcode/15-Medium-3Sum/problem.md)                                                   | [Python](leetcode/15-Medium-3Sum/answer.py)                       |
 | 16 | Medium     | [3Sum Closest](leetcode/16-Medium-3Sum-Closest/problem.md)                                   | [Python](leetcode/16-Medium-3Sum-Closest/answer.py)               |
 | 17 | Medium     | [Letter Combinations of a Phone Number](leetcode/17-Medium-Letter-Combinations-Of-A-Phone-Number/problem.md) | [Python](leetcode/17-Medium-Letter-Combinations-Of-A-Phone-Number/answer.py) |
+| 18 | Medium     | [4Sum](leetcode/18-Medium-4Sum/problem.md)                                                   | [Python](leetcode/18-Medium-4Sum/answer.py)                       |
 | 19 | Medium     | [Remove Nth Node From End of List](leetcode/19-Medium-Remove-Nth-Node-From-End-Of-List/problem.md) | [Python](leetcode/19-Medium-Remove-Nth-Node-From-End-Of-List/answer.py) |
 | 20 | Easy       | [Valid Parentheses](leetcode/20-Easy-Valid-Parentheses/problem.md)                           | [Java](leetcode/20-Easy-Valid-Parentheses/answer.java)            |
 | 21 | Easy       | [Merge Two Sorted Lists](leetcode/21-Easy-Merge-Two-Sorted-Lists/problem.md)                 | [Java](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.java)       |
