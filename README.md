@@ -42,6 +42,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 39 | Medium     | [Combination Sum](leetcode/39-Medium-Combination-Sum/problem.md)                             | [Python](leetcode/39-Medium-Combination-Sum/answer.py)            |
 | 40 | Medium     | [Combination Sum II](leetcode/40-Medium-Combination-Sum-II/problem.md)                       | [Python](leetcode/40-Medium-Combination-Sum-II/answer.py)         |
 | 46 | Medium     | [Permutations](leetcode/46-Medium-Permutations/problem.md)                                   | [Python](leetcode/46-Medium-Permutations/answer.py)               |
+| 47 | Medium     | [Permutations II](leetcode/47-Medium-Permutations-II/problem.md)                             | [Python](leetcode/47-Medium-Permutations-II/answer.py)            |
 | 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)             |
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)              |
 | 56 | Medium     | [Merge Intervals](leetcode/56-Medium-Merge-Intervals/problem.md)                             | [Python](leetcode/56-Medium-Merge-Intervals/answer.py)            |
