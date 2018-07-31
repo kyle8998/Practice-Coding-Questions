@@ -55,6 +55,8 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                   |
 | 104| Easy       | [Maximum Depth of Binary Tree](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/answer.py)|
+| 105| Medium     | [Construct Binary Tree from Preorder and Inorder Traversal](leetcode/105-Medium-Construct-Binary-Tree-From-Preorder-And-Inorder-Traversal/problem.md) | [Python](leetcode/105-Medium-Construct-Binary-Tree-From-Preorder-And-Inorder-Traversal/answer.py)|
+| 106| Medium     | [Construct Binary Tree from Inorder and Postorder Traversal](leetcode/106-Medium-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal/problem.md) | [Python](leetcode/106-Medium-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal/answer.py)|
 | 111| Easy       | [Minimum Depth of Binary Tree](leetcode/111-Easy-Minimum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/111-Easy-Minimum-Depth-Of-Binary-Tree/answer.py)|
 | 112| Easy       | [Path Sum](leetcode/112-Easy-Path-Sum/problem.md)                                            | [Python](leetcode/112-Easy-Path-Sum/answer.py)                    |
 | 136| Easy       | [Single Number](leetcode/136-Easy-Single-Number/problem.md)                                  | [Python](leetcode/136-Easy-Single-Number/answer.py)               |
