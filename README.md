@@ -59,6 +59,8 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 106| Medium     | [Construct Binary Tree from Inorder and Postorder Traversal](leetcode/106-Medium-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal/problem.md) | [Python](leetcode/106-Medium-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal/answer.py)|
 | 111| Easy       | [Minimum Depth of Binary Tree](leetcode/111-Easy-Minimum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/111-Easy-Minimum-Depth-Of-Binary-Tree/answer.py)|
 | 112| Easy       | [Path Sum](leetcode/112-Easy-Path-Sum/problem.md)                                            | [Python](leetcode/112-Easy-Path-Sum/answer.py)                    |
+| 121| Easy       | [Best Time to Buy and Sell Stock](leetcode/121-Easy-Best-Time-To-Buy-And-Sell-Stock/problem.md) | [Python](leetcode/121-Easy-Best-Time-To-Buy-And-Sell-Stock/answer.py) |
+| 122| Easy       | [Best Time to Buy and Sell Stock II](leetcode/122-Easy-Best-Time-To-Buy-And-Sell-Stock-II/problem.md) | [Python](leetcode/122-Easy-Best-Time-To-Buy-And-Sell-Stock-II/answer.py) |
 | 136| Easy       | [Single Number](leetcode/136-Easy-Single-Number/problem.md)                                  | [Python](leetcode/136-Easy-Single-Number/answer.py)               |
 | 137| Medium     | [Single Number II](leetcode/137-Medium-Single-Number-II/problem.md)                          | [Python](leetcode/137-Medium-Single-Number-II/answer.py)          |
 | 141| Easy       | [Linked List Cycle](leetcode/141-Easy-Linked-List-Cycle/problem.md)                          | [Python](leetcode/141-Easy-Linked-List-Cycle/answer.py)           |
