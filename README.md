@@ -42,6 +42,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 36 | Medium     | [Valid Sudoku](leetcode/36-Medium-Valid-Sudoku/problem.md)                                   | [Python](leetcode/36-Medium-Valid-Sudoku/answer.py)               |
 | 39 | Medium     | [Combination Sum](leetcode/39-Medium-Combination-Sum/problem.md)                             | [Python](leetcode/39-Medium-Combination-Sum/answer.py)            |
 | 40 | Medium     | [Combination Sum II](leetcode/40-Medium-Combination-Sum-II/problem.md)                       | [Python](leetcode/40-Medium-Combination-Sum-II/answer.py)         |
+| 42 | Hard       | [Trapping Rain Water](leetcode/42-Hard-Trapping-Rain-Water/problem.md)                       | [Python](leetcode/42-Hard-Trapping-Rain-Water/answer.py)          |
 | 46 | Medium     | [Permutations](leetcode/46-Medium-Permutations/problem.md)                                   | [Python](leetcode/46-Medium-Permutations/answer.py)               |
 | 47 | Medium     | [Permutations II](leetcode/47-Medium-Permutations-II/problem.md)                             | [Python](leetcode/47-Medium-Permutations-II/answer.py)            |
 | 48 | Medium     | [Rotate Image](leetcode/48-Medium-Rotate-Image/problem.md)                                   | [Python](leetcode/48-Medium-Rotate-Image/answer.py)               |
