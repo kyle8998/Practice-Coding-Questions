@@ -57,6 +57,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                    |
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                   |
+| 101| Easy       | [Symmetric Tree](leetcode/101-Easy-Symmetric-Tree/problem.md)                                | [Python](leetcode/101-Easy-Symmetric-Tree/answer.py)              |
 | 104| Easy       | [Maximum Depth of Binary Tree](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/answer.py)|
 | 105| Medium     | [Construct Binary Tree from Preorder and Inorder Traversal](leetcode/105-Medium-Construct-Binary-Tree-From-Preorder-And-Inorder-Traversal/problem.md) | [Python](leetcode/105-Medium-Construct-Binary-Tree-From-Preorder-And-Inorder-Traversal/answer.py)|
 | 106| Medium     | [Construct Binary Tree from Inorder and Postorder Traversal](leetcode/106-Medium-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal/problem.md) | [Python](leetcode/106-Medium-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal/answer.py)|
