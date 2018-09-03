@@ -78,6 +78,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 206| Easy       | [Reverse Linked List](leetcode/206-Easy-Reverse-Linked-List/problem.md)                      | [Python](leetcode/206-Easy-Reverse-Linked-List/answer.py)         |
 | 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)            |
 | 235| Easy       | [Lowest Common Ancestor of a Binary Search Tree](leetcode/235-Easy-Lowest-Common-Ancestor-Of-A-Binary-Search-Tree/problem.md) | [Python](leetcode/235-Easy-Lowest-Common-Ancestor-Of-A-Binary-Search-Tree/answer.py)|
+| 236| Medium     | [Lowest Common Ancestor of a Binary Tree](leetcode/236-Medium-Lowest-Common-Ancestor-Of-A-Binary-Tree/problem.md) | [Python](leetcode/236-Medium-Lowest-Common-Ancestor-Of-A-Binary-Tree/answer.py)|
 | 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
 | 310| Medium     | [Minimum Height Trees](leetcode/310-Minimum-Height-Trees/problem.md)                         | [Python](leetcode/310-Minimum-Height-Trees/answer.py)             |
 | 733| Easy       | [Flood Fill](leetcode/733-Easy-Flood-Fill/problem.md)                                        | [Python](leetcode/733-Easy-Flood-Fill/answer.py)                  |
