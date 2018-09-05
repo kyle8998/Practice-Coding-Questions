@@ -73,6 +73,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 136| Easy       | [Single Number](leetcode/136-Easy-Single-Number/problem.md)                                  | [Python](leetcode/136-Easy-Single-Number/answer.py)               |
 | 137| Medium     | [Single Number II](leetcode/137-Medium-Single-Number-II/problem.md)                          | [Python](leetcode/137-Medium-Single-Number-II/answer.py)          |
 | 141| Easy       | [Linked List Cycle](leetcode/141-Easy-Linked-List-Cycle/problem.md)                          | [Python](leetcode/141-Easy-Linked-List-Cycle/answer.py)           |
+| 142| Medium     | [Linked List Cycle II](leetcode/142-Medium-Linked-List-Cycle-II/problem.md)                  | [Python](leetcode/142-Medium-Linked-List-Cycle-II/answer.py)      |
 | 148| Medium     | [Sort List](leetcode/148-Medium-Sort-List/problem.md)                                        | [Python](leetcode/148-Medium-Sort-List/answer.py)                 |
 | 188| Hard       | [Best Time to Buy and Sell Stock IV](leetcode/188-Hard-Best-Time-To-Buy-And-Sell-Stock-IV/problem.md) | [Python](leetcode/188-Hard-Best-Time-To-Buy-And-Sell-Stock-IV/answer.py) |
 | 206| Easy       | [Reverse Linked List](leetcode/206-Easy-Reverse-Linked-List/problem.md)                      | [Python](leetcode/206-Easy-Reverse-Linked-List/answer.py)         |
