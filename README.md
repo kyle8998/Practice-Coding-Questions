@@ -82,7 +82,8 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 236| Medium     | [Lowest Common Ancestor of a Binary Tree](leetcode/236-Medium-Lowest-Common-Ancestor-Of-A-Binary-Tree/problem.md) | [Python](leetcode/236-Medium-Lowest-Common-Ancestor-Of-A-Binary-Tree/answer.py)|
 | 287| Medium     | [Find the Duplicate Number](leetcode/287-Medium-Find-The-Duplicate-Number/problem.md)        | [Python](leetcode/287-Medium-Find-The-Duplicate-Number/answer.py) |
 | 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
-| 310| Medium     | [Minimum Height Trees](leetcode/310-Minimum-Height-Trees/problem.md)                         | [Python](leetcode/310-Minimum-Height-Trees/answer.py)             |
+| 310| Medium     | [Minimum Height Trees](leetcode/310-Medium-Minimum-Height-Trees/problem.md)                  | [Python](leetcode/310-Medium-Minimum-Height-Trees/answer.py)      |
+| 495| Medium     | [Teemo Attacking](leetcode/495-Medium-Teemo-Attacking/problem.md)                            | [Python](leetcode/495-Medium-Teemo-Attacking/answer.py)           |
 | 733| Easy       | [Flood Fill](leetcode/733-Easy-Flood-Fill/problem.md)                                        | [Python](leetcode/733-Easy-Flood-Fill/answer.py)                  |
 | 771| Easy       | [Jewels and Stones](leetcode/771-Easy-Jewels-And-Stones/problem.md)                          | [Python](leetcode/771-Easy-Jewels-And-Stones/answer.py)           |
 
