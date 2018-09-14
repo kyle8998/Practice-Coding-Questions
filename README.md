@@ -70,6 +70,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 110| Easy       | [Balanced Binary Tree](leetcode/110-Easy-Balanced-Binary-Tree/problem.md)                    | [Python](leetcode/110-Easy-Balanced-Binary-Tree/answer.py)        |
 | 111| Easy       | [Minimum Depth of Binary Tree](leetcode/111-Easy-Minimum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/111-Easy-Minimum-Depth-Of-Binary-Tree/answer.py)|
 | 112| Easy       | [Path Sum](leetcode/112-Easy-Path-Sum/problem.md)                                            | [Python](leetcode/112-Easy-Path-Sum/answer.py)                    |
+| 118| Easy       | [Pascal's Triangle](leetcode/118-Easy-Pascal's-Triangle/problem.md)                          | [Python](leetcode/118-Easy-Pascal's-Triangle/answer.py)           |
 | 121| Easy       | [Best Time to Buy and Sell Stock](leetcode/121-Easy-Best-Time-To-Buy-And-Sell-Stock/problem.md) | [Python](leetcode/121-Easy-Best-Time-To-Buy-And-Sell-Stock/answer.py) |
 | 122| Easy       | [Best Time to Buy and Sell Stock II](leetcode/122-Easy-Best-Time-To-Buy-And-Sell-Stock-II/problem.md) | [Python](leetcode/122-Easy-Best-Time-To-Buy-And-Sell-Stock-II/answer.py) |
 | 123| Hard       | [Best Time to Buy and Sell Stock III](leetcode/123-Hard-Best-Time-To-Buy-And-Sell-Stock-III/problem.md) | [Python](leetcode/123-Hard-Best-Time-To-Buy-And-Sell-Stock-III/answer.py) |
