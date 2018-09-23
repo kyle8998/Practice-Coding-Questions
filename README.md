@@ -85,8 +85,9 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 146| Hard       | [LRU Cache](leetcode/146-Hard-LRU-Cache/problem.md)                                          | [Python](leetcode/146-Hard-LRU-Cache/answer.py)                   |
 | 148| Medium     | [Sort List](leetcode/148-Medium-Sort-List/problem.md)                                        | [Python](leetcode/148-Medium-Sort-List/answer.py)                 |
 | 155| Easy       | [Min Stack](leetcode/155-Easy-Min-Stack/problem.md)                                          | [Python](leetcode/155-Easy-Min-Stack/answer.py)                   |
-| 173| Medium     | [Binary Search Tree Iterator](leetcode/173-Medium-Binary-Search-Tree-Iterator/problem.md)    | [Python](leetcode/173-Medium-Binary-Search-Tree-Iteratort/answer.py) |
+| 173| Medium     | [Binary Search Tree Iterator](leetcode/173-Medium-Binary-Search-Tree-Iterator/problem.md)    | [Python](leetcode/173-Medium-Binary-Search-Tree-Iterator/answer.py) |
 | 188| Hard       | [Best Time to Buy and Sell Stock IV](leetcode/188-Hard-Best-Time-To-Buy-And-Sell-Stock-IV/problem.md) | [Python](leetcode/188-Hard-Best-Time-To-Buy-And-Sell-Stock-IV/answer.py) |
+| 200| Medium     | [Number of Islands](leetcode/200-Medium-Number-Of-Islands/problem.md)                        | [Python](leetcode/200-Medium-Number-Of-Islands/answer.py)         |
 | 206| Easy       | [Reverse Linked List](leetcode/206-Easy-Reverse-Linked-List/problem.md)                      | [Python](leetcode/206-Easy-Reverse-Linked-List/answer.py)         |
 | 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)            |
 | 226| Easy       | [Invert Binary Tree](leetcode/226-Easy-Invert-Binary-Tree/problem.md)                        | [Python](leetcode/226-Easy-Invert-Binary-Tree/answer.py)          |
