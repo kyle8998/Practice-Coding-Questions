@@ -98,6 +98,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 287| Medium     | [Find the Duplicate Number](leetcode/287-Medium-Find-The-Duplicate-Number/problem.md)        | [Python](leetcode/287-Medium-Find-The-Duplicate-Number/answer.py) |
 | 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
 | 310| Medium     | [Minimum Height Trees](leetcode/310-Medium-Minimum-Height-Trees/problem.md)                  | [Python](leetcode/310-Medium-Minimum-Height-Trees/answer.py)      |
+| 341| Medium     | [Flatten Nested List Iterator](leetcode/341-Medium-Flatten-Nested-List-Iterator/problem.md)  | [Python](leetcode/341-Medium-Flatten-Nested-List-Iterator/answer.py) |
 | 461| Easy       | [Hamming Distance](leetcode/461-Easy-Hamming-Distance/problem.md)                            | [Python](leetcode/461-Easy-Hamming-Distance/answer.py)            |
 | 495| Medium     | [Teemo Attacking](leetcode/495-Medium-Teemo-Attacking/problem.md)                            | [Python](leetcode/495-Medium-Teemo-Attacking/answer.py)           |
 | 733| Easy       | [Flood Fill](leetcode/733-Easy-Flood-Fill/problem.md)                                        | [Python](leetcode/733-Easy-Flood-Fill/answer.py)                  |
