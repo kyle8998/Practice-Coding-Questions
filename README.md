@@ -10,7 +10,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 
 |  # | Difficulty | Problem                                                                                      | Solution                                                          |
 | -- | ---------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 1  | Easy       | [Two Sum](leetcode/1-Easy-Two-Sum/problem.md)                                                | [Java](leetcode/1-Easy-Two-Sum/answer.java), [Ruby](leetcode/1-Easy-Two-Sum/answer.rb)|
+| 1  | Easy       | [Two Sum](leetcode/1-Easy-Two-Sum/problem.md)                                                | [Java](leetcode/1-Easy-Two-Sum/answer.java), [Python](leetcode/1-Easy-Two-Sum/answer.py), [Ruby](leetcode/1-Easy-Two-Sum/answer.rb)|
 | 2  | Medium     | [Add Two Numbers](leetcode/2-Medium-Add-Two-Numbers/problem.md)                              | [C](leetcode/2-Medium-Add-Two-Numbers/answer.c)                   |
 | 3  | Medium     | [Longest Substring Without Repeating Characters](leetcode/3-Medium-Longest-Substring-Without-Repeating-Characters/problem.md) | [Python](leetcode/3-Medium-Longest-Substring-Without-Repeating-Characters/answer.py) |
 | 4  | Hard       | [Median of Two Sorted Arrays](leetcode/4-Hard-Median-Of-Two-Sorted-Arrays/problem.md)        | [Python](leetcode/4-Hard-Median-Of-Two-Sorted-Arrays/answer.py)   |
@@ -22,7 +22,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 10 | Hard       | [Regular Expression Matching](leetcode/10-Hard-Regular-Expression-Matching/problem.md)       | [Python](leetcode/10-Hard-Regular-Expression-Matching/answer.py)  |
 | 11 | Medium     | [Container With Most Water](leetcode/11-Medium-Container-With-Most-Water/problem.md)         | [Python](leetcode/11-Medium-Container-With-Most-Water/answer.py)  |
 | 12 | Medium     | [Integer to Roman](leetcode/12-Medium-Integer-To-Roman/problem.md)                           | [Python](leetcode/12-Medium-Integer-To-Roman/answer.py)           |
-| 13 | Easy       | [Roman to Integer](leetcode/13-Easy-Roman-To-Integer/problem.md)                             | [C](leetcode/13-Easy-Roman-To-Integer/answer.c)                   |
+| 13 | Easy       | [Roman to Integer](leetcode/13-Easy-Roman-To-Integer/problem.md)                             | [C](leetcode/13-Easy-Roman-To-Integer/answer.c), [Python](leetcode/13-Easy-Roman-To-Integer/answer.py)|
 | 14 | Easy       | [Longest Common Prefix](leetcode/14-Easy-Longest-Common-Prefix/problem.md)                   | [Python](leetcode/14-Easy-Longest-Common-Prefix/answer.py)        |
 | 15 | Medium     | [3Sum](leetcode/15-Medium-3Sum/problem.md)                                                   | [Python](leetcode/15-Medium-3Sum/answer.py)                       |
 | 16 | Medium     | [3Sum Closest](leetcode/16-Medium-3Sum-Closest/problem.md)                                   | [Python](leetcode/16-Medium-3Sum-Closest/answer.py)               |
@@ -46,6 +46,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 39 | Medium     | [Combination Sum](leetcode/39-Medium-Combination-Sum/problem.md)                             | [Python](leetcode/39-Medium-Combination-Sum/answer.py)            |
 | 40 | Medium     | [Combination Sum II](leetcode/40-Medium-Combination-Sum-II/problem.md)                       | [Python](leetcode/40-Medium-Combination-Sum-II/answer.py)         |
 | 42 | Hard       | [Trapping Rain Water](leetcode/42-Hard-Trapping-Rain-Water/problem.md)                       | [Python](leetcode/42-Hard-Trapping-Rain-Water/answer.py)          |
+| 43 | Medium     | [Multiply Strings](leetcode/43-Medium-Multiply-Strings/problem.md)                           | [Python](leetcode/43-Medium-Multiply-Strings/answer.py)           |
 | 44 | Hard       | [Wildcard Matching](leetcode/44-Hard-Wildcard-Matching/problem.md)                           | [Python](leetcode/44-Hard-Wildcard-Matching/answer.py)            |
 | 46 | Medium     | [Permutations](leetcode/46-Medium-Permutations/problem.md)                                   | [Python](leetcode/46-Medium-Permutations/answer.py)               |
 | 47 | Medium     | [Permutations II](leetcode/47-Medium-Permutations-II/problem.md)                             | [Python](leetcode/47-Medium-Permutations-II/answer.py)            |
