@@ -52,6 +52,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 47 | Medium     | [Permutations II](leetcode/47-Medium-Permutations-II/problem.md)                             | [Python](leetcode/47-Medium-Permutations-II/answer.py)            |
 | 48 | Medium     | [Rotate Image](leetcode/48-Medium-Rotate-Image/problem.md)                                   | [Python](leetcode/48-Medium-Rotate-Image/answer.py)               |
 | 49 | Medium     | [Group Anagrams](leetcode/49-Medium-Group-Anagrams/problem.md)                               | [Python](leetcode/49-Medium-Group-Anagrams/answer.py)             |
+| 50 | Medium     | [Pow(x, n)](leetcode/50-Medium-Pow(x,n)/problem.md)                                          | [Python](leetcode/50-Medium-Pow(x,n)/answer.py)                   |
 | 53 | Easy       | [Maximum Subarray](leetcode/53-Easy-Maximum-Subarray/problem.md)                             | [Java](leetcode/53-Easy-Maximum-Subarray/answer.java)             |
 | 54 | Medium     | [Spiral Matrix](leetcode/54-Medium-Spiral-Matrix/problem.md)                                 | [Python](leetcode/54-Medium-Spiral-Matrix/answer.py)              |
 | 55 | Medium     | [Jump Game](leetcode/55-Medium-Jump-Game/problem.md)                                         | [Python](leetcode/55-Medium-Jump-Game/answer.py)                  |
