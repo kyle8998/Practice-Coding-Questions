@@ -65,6 +65,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 67 | Easy       | [Add Binary](leetcode/67-Easy-Add-Binary/problem.md)                                         | [Python](leetcode/67-Easy-Add-Binary/answer.py)                   |
 | 69 | Easy       | [Sqrt()](leetcode/69-Easy-Sqrt/problem.md)                                                   | [Python](leetcode/69-Easy-Sqrt/answer.py)                         |
 | 70 | Easy       | [Climbing Stairs](leetcode/70-Easy-Climbing-Stairs/problem.md)                               | [C](leetcode/70-Easy-Climbing-Stairs/answer.c)                    |
+| 76 | Hard       | [Minimum Window Substring](leetcode/76-Hard-Minimum-Window-Substring/problem.md)             | [Python](leetcode/76-Hard-Minimum-Window-Substring/answer.py)     |
 | 78 | Medium     | [Subsets](leetcode/78-Medium-Subsets/problem.md)                                             | [Python](leetcode/78-Medium-Subsets/answer.py)                    |
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                   |
