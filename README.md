@@ -73,6 +73,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 88 | Easy       | [Merge Sorted Array](leetcode/88-Easy-Merge-Sorted-Array/problem.md)                         | [Python](leetcode/88-Easy-Merge-Sorted-Array/answer.py)           |
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                   |
 | 101| Easy       | [Symmetric Tree](leetcode/101-Easy-Symmetric-Tree/problem.md)                                | [Python](leetcode/101-Easy-Symmetric-Tree/answer.py)              |
+| 102| Medium     | [Binary Tree Level Order Traversal](leetcode/102-Medium-Binary-Tree-Level-Order-Traversal/problem.md) | [Python](leetcode/102-Medium-Binary-Tree-Level-Order-Traversal/answer.py)|
 | 104| Easy       | [Maximum Depth of Binary Tree](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/answer.py)|
 | 105| Medium     | [Construct Binary Tree from Preorder and Inorder Traversal](leetcode/105-Medium-Construct-Binary-Tree-From-Preorder-And-Inorder-Traversal/problem.md) | [Python](leetcode/105-Medium-Construct-Binary-Tree-From-Preorder-And-Inorder-Traversal/answer.py)|
 | 106| Medium     | [Construct Binary Tree from Inorder and Postorder Traversal](leetcode/106-Medium-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal/problem.md) | [Python](leetcode/106-Medium-Construct-Binary-Tree-From-Inorder-And-Postorder-Traversal/answer.py)|
