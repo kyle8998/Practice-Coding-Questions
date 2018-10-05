@@ -70,6 +70,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 79 | Medium     | [Word Search](leetcode/79-Medium-Word-Search/problem.md)                                     | [Python](leetcode/79-Medium-Word-Search/answer.py)                |
 | 83 | Easy       | [Remove Duplicates from Sorted List](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/problem.md) | [Python](leetcode/83-Easy-Remove-Duplicates-From-Sorted-List/answer.py)|
 | 85 | Hard       | [Maximal Rectangle](leetcode/85-Hard-Maximal-Rectangle/problem.md)                           | [Python](leetcode/85-Hard-Maximal-Rectangle/answer.py)            |
+| 88 | Easy       | [Merge Sorted Array](leetcode/88-Easy-Merge-Sorted-Array/problem.md)                         | [Python](leetcode/88-Easy-Merge-Sorted-Array/answer.py)           |
 | 100| Easy       | [Same Tree](leetcode/100-Easy-Same-Tree/problem.md)                                          | [Python](leetcode/100-Easy-Same-Tree/answer.py)                   |
 | 101| Easy       | [Symmetric Tree](leetcode/101-Easy-Symmetric-Tree/problem.md)                                | [Python](leetcode/101-Easy-Symmetric-Tree/answer.py)              |
 | 104| Easy       | [Maximum Depth of Binary Tree](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/problem.md)    | [Python](leetcode/104-Easy-Maximum-Depth-Of-Binary-Tree/answer.py)|
