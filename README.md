@@ -29,7 +29,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 17 | Medium     | [Letter Combinations of a Phone Number](leetcode/17-Medium-Letter-Combinations-Of-A-Phone-Number/problem.md) | [Python](leetcode/17-Medium-Letter-Combinations-Of-A-Phone-Number/answer.py) |
 | 18 | Medium     | [4Sum](leetcode/18-Medium-4Sum/problem.md)                                                   | [Python](leetcode/18-Medium-4Sum/answer.py)                       |
 | 19 | Medium     | [Remove Nth Node From End of List](leetcode/19-Medium-Remove-Nth-Node-From-End-Of-List/problem.md) | [Python](leetcode/19-Medium-Remove-Nth-Node-From-End-Of-List/answer.py) |
-| 20 | Easy       | [Valid Parentheses](leetcode/20-Easy-Valid-Parentheses/problem.md)                           | [Java](leetcode/20-Easy-Valid-Parentheses/answer.java)            |
+| 20 | Easy       | [Valid Parentheses](leetcode/20-Easy-Valid-Parentheses/problem.md)                           | [Java](leetcode/20-Easy-Valid-Parentheses/answer.java), [Python](leetcode/20-Easy-Valid-Parentheses/answer.py) |
 | 21 | Easy       | [Merge Two Sorted Lists](leetcode/21-Easy-Merge-Two-Sorted-Lists/problem.md)                 | [Java](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.java)       |
 | 22 | Medium     | [Generate Parentheses](leetcode/22-Medium-Generate-Parentheses/problem.md)                   | [Python](leetcode/22-Medium-Generate-Parentheses/answer.py)       |
 | 24 | Medium     | [Swap Node in Pairs](leetcode/24-Medium-Swap-Nodes-In-Pairs/problem.md)                      | [Python](leetcode/24-Medium-Swap-Nodes-In-Pairs/answer.py)        |
@@ -114,6 +114,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 283| Easy       | [Move Zeroes](leetcode/283-Easy-Move-Zeroes/problem.md)                                      | [Python](leetcode/283-Easy-Move-Zeroes/answer.py)                 |
 | 287| Medium     | [Find the Duplicate Number](leetcode/287-Medium-Find-The-Duplicate-Number/problem.md)        | [Python](leetcode/287-Medium-Find-The-Duplicate-Number/answer.py) |
 | 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
+| 301| Hard       | [Remove Invalid Parentheses](leetcode/301-Hard-Remove-Invalid-Parentheses/problem.md)        | [Python](leetcode/301-Hard-Remove-Invalid-Parentheses/answer.py)  |
 | 310| Medium     | [Minimum Height Trees](leetcode/310-Medium-Minimum-Height-Trees/problem.md)                  | [Python](leetcode/310-Medium-Minimum-Height-Trees/answer.py)      |
 | 341| Medium     | [Flatten Nested List Iterator](leetcode/341-Medium-Flatten-Nested-List-Iterator/problem.md)  | [Python](leetcode/341-Medium-Flatten-Nested-List-Iterator/answer.py) |
 | 461| Easy       | [Hamming Distance](leetcode/461-Easy-Hamming-Distance/problem.md)                            | [Python](leetcode/461-Easy-Hamming-Distance/answer.py)            |
