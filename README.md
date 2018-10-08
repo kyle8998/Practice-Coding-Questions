@@ -118,6 +118,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 341| Medium     | [Flatten Nested List Iterator](leetcode/341-Medium-Flatten-Nested-List-Iterator/problem.md)  | [Python](leetcode/341-Medium-Flatten-Nested-List-Iterator/answer.py) |
 | 461| Easy       | [Hamming Distance](leetcode/461-Easy-Hamming-Distance/problem.md)                            | [Python](leetcode/461-Easy-Hamming-Distance/answer.py)            |
 | 495| Medium     | [Teemo Attacking](leetcode/495-Medium-Teemo-Attacking/problem.md)                            | [Python](leetcode/495-Medium-Teemo-Attacking/answer.py)           |
+| 535| Medium     | [Encode and Decode TinyURL](leetcode/535-Medium-Encode-And-Decode-TinyURL/problem.md)        | [Python](leetcode/535-Medium-Encode-And-Decode-TinyURL/answer.py) |
 | 733| Easy       | [Flood Fill](leetcode/733-Easy-Flood-Fill/problem.md)                                        | [Python](leetcode/733-Easy-Flood-Fill/answer.py)                  |
 | 771| Easy       | [Jewels and Stones](leetcode/771-Easy-Jewels-And-Stones/problem.md)                          | [Python](leetcode/771-Easy-Jewels-And-Stones/answer.py)           |
 
