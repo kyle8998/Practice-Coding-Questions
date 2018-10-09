@@ -30,7 +30,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 18 | Medium     | [4Sum](leetcode/18-Medium-4Sum/problem.md)                                                   | [Python](leetcode/18-Medium-4Sum/answer.py)                       |
 | 19 | Medium     | [Remove Nth Node From End of List](leetcode/19-Medium-Remove-Nth-Node-From-End-Of-List/problem.md) | [Python](leetcode/19-Medium-Remove-Nth-Node-From-End-Of-List/answer.py) |
 | 20 | Easy       | [Valid Parentheses](leetcode/20-Easy-Valid-Parentheses/problem.md)                           | [Java](leetcode/20-Easy-Valid-Parentheses/answer.java), [Python](leetcode/20-Easy-Valid-Parentheses/answer.py) |
-| 21 | Easy       | [Merge Two Sorted Lists](leetcode/21-Easy-Merge-Two-Sorted-Lists/problem.md)                 | [Java](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.java)       |
+| 21 | Easy       | [Merge Two Sorted Lists](leetcode/21-Easy-Merge-Two-Sorted-Lists/problem.md)                 | [Java](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.java), [Python](leetcode/21-Easy-Merge-Two-Sorted-Lists/answer.py)|
 | 22 | Medium     | [Generate Parentheses](leetcode/22-Medium-Generate-Parentheses/problem.md)                   | [Python](leetcode/22-Medium-Generate-Parentheses/answer.py)       |
 | 23 | Hard       | [Merge k Sorted Lists](leetcode/23-Hard-Merge-K-Sorted-Lists/problem.md)                     | [Python](leetcode/23-Hard-Merge-K-Sorted-Lists/answer.py)         |
 | 24 | Medium     | [Swap Node in Pairs](leetcode/24-Medium-Swap-Nodes-In-Pairs/problem.md)                      | [Python](leetcode/24-Medium-Swap-Nodes-In-Pairs/answer.py)        |
