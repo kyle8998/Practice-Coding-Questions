@@ -34,6 +34,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 22 | Medium     | [Generate Parentheses](leetcode/22-Medium-Generate-Parentheses/problem.md)                   | [Python](leetcode/22-Medium-Generate-Parentheses/answer.py)       |
 | 23 | Hard       | [Merge k Sorted Lists](leetcode/23-Hard-Merge-K-Sorted-Lists/problem.md)                     | [Python](leetcode/23-Hard-Merge-K-Sorted-Lists/answer.py)         |
 | 24 | Medium     | [Swap Node in Pairs](leetcode/24-Medium-Swap-Nodes-In-Pairs/problem.md)                      | [Python](leetcode/24-Medium-Swap-Nodes-In-Pairs/answer.py)        |
+| 25 | Hard       | [Reverse Nodes in k-Group](leetcode/25-Hard-Reverse-Nodes-In-K-Group/problem.md)             | [Python](leetcode/25-Hard-Reverse-Nodes-In-K-Group/answer.py)     |
 | 26 | Easy       | [Remove Duplicates from Sorted Array](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/problem.md) | [C](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/answer.c), [Python](leetcode/26-Easy-Remove-Duplicates-From-Sorted-Array/answer.py) |
 | 27 | Easy       | [Remove Element](leetcode/27-Easy-Remove-Element/problem.md)                                 | [Python](leetcode/27-Easy-Remove-Element/answer.py)               |
 | 28 | Easy       | [Implement strStr()](leetcode/28-Easy-Implement-strStr/problem.md)                           | [C](leetcode/28-Easy-Implement-strStr/answer.c), [Python](leetcode/28-Easy-Implement-strStr/answer.py) |
