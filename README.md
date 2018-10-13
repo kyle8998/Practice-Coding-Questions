@@ -122,6 +122,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 301| Hard       | [Remove Invalid Parentheses](leetcode/301-Hard-Remove-Invalid-Parentheses/problem.md)        | [Python](leetcode/301-Hard-Remove-Invalid-Parentheses/answer.py)  |
 | 310| Medium     | [Minimum Height Trees](leetcode/310-Medium-Minimum-Height-Trees/problem.md)                  | [Python](leetcode/310-Medium-Minimum-Height-Trees/answer.py)      |
 | 341| Medium     | [Flatten Nested List Iterator](leetcode/341-Medium-Flatten-Nested-List-Iterator/problem.md)  | [Python](leetcode/341-Medium-Flatten-Nested-List-Iterator/answer.py) |
+| 389| Easy       | [Find the Difference](leetcode/389-Easy-Find-The-Difference/problem.md)                      | [Python](leetcode/389-Easy-Find-The-Difference/answer.py)         |
 | 461| Easy       | [Hamming Distance](leetcode/461-Easy-Hamming-Distance/problem.md)                            | [Python](leetcode/461-Easy-Hamming-Distance/answer.py)            |
 | 495| Medium     | [Teemo Attacking](leetcode/495-Medium-Teemo-Attacking/problem.md)                            | [Python](leetcode/495-Medium-Teemo-Attacking/answer.py)           |
 | 535| Medium     | [Encode and Decode TinyURL](leetcode/535-Medium-Encode-And-Decode-TinyURL/problem.md)        | [Python](leetcode/535-Medium-Encode-And-Decode-TinyURL/answer.py) |
