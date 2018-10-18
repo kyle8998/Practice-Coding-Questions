@@ -99,6 +99,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 146| Hard       | [LRU Cache](leetcode/146-Hard-LRU-Cache/problem.md)                                          | [Python](leetcode/146-Hard-LRU-Cache/answer.py)                   |
 | 148| Medium     | [Sort List](leetcode/148-Medium-Sort-List/problem.md)                                        | [Python](leetcode/148-Medium-Sort-List/answer.py)                 |
 | 155| Easy       | [Min Stack](leetcode/155-Easy-Min-Stack/problem.md)                                          | [Python](leetcode/155-Easy-Min-Stack/answer.py)                   |
+| 162| Medium     | [Find Peak Element](leetcode/162-Medium-Find-Peak-Element/problem.md)                        | [Python](leetcode/162-Medium-Find-Peak-Element/answer.py)         |
 | 168| Easy       | [Excel Sheet Column Title](leetcode/168-Easy-Excel-Sheet-Column-Title/problem.md)            | [Python](leetcode/168-Easy-Excel-Sheet-Column-Title/answer.py)    |
 | 171| Easy       | [Excel Sheet Column Number](leetcode/171-Easy-Excel-Sheet-Column-Number/problem.md)          | [Python](leetcode/171-Easy-Excel-Sheet-Column-Number/answer.py)   |
 | 173| Medium     | [Binary Search Tree Iterator](leetcode/173-Medium-Binary-Search-Tree-Iterator/problem.md)    | [Python](leetcode/173-Medium-Binary-Search-Tree-Iterator/answer.py) |
