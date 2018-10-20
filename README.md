@@ -106,6 +106,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 188| Hard       | [Best Time to Buy and Sell Stock IV](leetcode/188-Hard-Best-Time-To-Buy-And-Sell-Stock-IV/problem.md) | [Python](leetcode/188-Hard-Best-Time-To-Buy-And-Sell-Stock-IV/answer.py) |
 | 196| Easy       | [Delete Duplicate Emails](leetcode/196-Easy-Delete-Duplicate-Emails/problem.md)              | [SQL](leetcode/196-Easy-Delete-Duplicate-Emails/answer.sql)       |
 | 200| Medium     | [Number of Islands](leetcode/200-Medium-Number-Of-Islands/problem.md)                        | [Python](leetcode/200-Medium-Number-Of-Islands/answer.py)         |
+| 204| Easy       | [Count Primes](leetcode/204-Easy-Count-Primes/problem.md)                                    | [Python](leetcode/204-Easy-Count-Primes/answer.py)                |
 | 206| Easy       | [Reverse Linked List](leetcode/206-Easy-Reverse-Linked-List/problem.md)                      | [Python](leetcode/206-Easy-Reverse-Linked-List/answer.py)         |
 | 208| Medium     | [Implement Trie](leetcode/208-Medium-Implement-Trie/problem.md)                              | [Java](leetcode/208-Medium-Implement-Trie/answer.java)            |
 | 215| Medium     | [Kth Largest Element in an Array](leetcode/215-Medium-Kth-Largest-Element-In-An-Array/problem.md) | [Python](leetcode/215-Medium-Kth-Largest-Element-In-An-Array/answer.py)|
