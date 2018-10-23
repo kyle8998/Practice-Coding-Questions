@@ -116,6 +116,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 234| Easy       | [Palindrome Linked List](leetcode/234-Easy-Palindrome-Linked-List/problem.md)                | [Python](leetcode/234-Easy-Palindrome-Linked-List/answer.py)      |
 | 235| Easy       | [Lowest Common Ancestor of a Binary Search Tree](leetcode/235-Easy-Lowest-Common-Ancestor-Of-A-Binary-Search-Tree/problem.md) | [Python](leetcode/235-Easy-Lowest-Common-Ancestor-Of-A-Binary-Search-Tree/answer.py)|
 | 236| Medium     | [Lowest Common Ancestor of a Binary Tree](leetcode/236-Medium-Lowest-Common-Ancestor-Of-A-Binary-Tree/problem.md) | [Python](leetcode/236-Medium-Lowest-Common-Ancestor-Of-A-Binary-Tree/answer.py)|
+| 237| Easy       | [Delete Node in a Linked List](leetcode/237-Easy-Delete-Node-In-A-Linked-List/problem.md)    | [Python](leetcode/237-Easy-Delete-Node-In-A-Linked-List/answer.py)|
 | 238| Medium     | [Product of Array Except Self](leetcode/238-Medium-Product-Of-Array-Except-Self/problem.md)  | [Python](leetcode/238-Medium-Product-Of-Array-Except-Self/answer.py)|
 | 240| Medium     | [Search a 2D Matrix II](leetcode/240-Medium-Search-A-2D-Matrix-II/problem.md)                | [Python](leetcode/240-Medium-Search-A-2D-Matrix-II/answer.py)     |
 | 258| Easy       | [Add Digits](leetcode/235-Easy-Add-Digits/problem.md)                                        | [Python](leetcode/235-Easy-Add-Digits/answer.py)                  |
