@@ -98,6 +98,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 142| Medium     | [Linked List Cycle II](leetcode/142-Medium-Linked-List-Cycle-II/problem.md)                  | [Python](leetcode/142-Medium-Linked-List-Cycle-II/answer.py)      |
 | 146| Hard       | [LRU Cache](leetcode/146-Hard-LRU-Cache/problem.md)                                          | [Python](leetcode/146-Hard-LRU-Cache/answer.py)                   |
 | 148| Medium     | [Sort List](leetcode/148-Medium-Sort-List/problem.md)                                        | [Python](leetcode/148-Medium-Sort-List/answer.py)                 |
+| 153| Medium     | [Find Minimum in Rotated Sorted Array](leetcode/153-Medium-Find-Minimum-In-Rotated-Sorted-Array/problem.md) | [Python](leetcode/153-Medium-Find-Minimum-In-Rotated-Sorted-Array/answer.py)|
 | 155| Easy       | [Min Stack](leetcode/155-Easy-Min-Stack/problem.md)                                          | [Python](leetcode/155-Easy-Min-Stack/answer.py)                   |
 | 162| Medium     | [Find Peak Element](leetcode/162-Medium-Find-Peak-Element/problem.md)                        | [Python](leetcode/162-Medium-Find-Peak-Element/answer.py)         |
 | 168| Easy       | [Excel Sheet Column Title](leetcode/168-Easy-Excel-Sheet-Column-Title/problem.md)            | [Python](leetcode/168-Easy-Excel-Sheet-Column-Title/answer.py)    |
