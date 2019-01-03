@@ -128,6 +128,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 273| Hard       | [Integer to English Words](leetcode/273-Hard-Integer-To-English-Words/problem.md)            | [Python](leetcode/273-Hard-Integer-To-English-Words/answer.py)    |
 | 283| Easy       | [Move Zeroes](leetcode/283-Easy-Move-Zeroes/problem.md)                                      | [Python](leetcode/283-Easy-Move-Zeroes/answer.py)                 |
 | 287| Medium     | [Find the Duplicate Number](leetcode/287-Medium-Find-The-Duplicate-Number/problem.md)        | [Python](leetcode/287-Medium-Find-The-Duplicate-Number/answer.py) |
+| 295| Hard       | [Find Median from Data Stream](leetcode/295-Hard-Find-Median-From-Data-Stream/problem.md)    | [Python](leetcode/295-Hard-Find-Median-From-Data-Stream/answer.py)|
 | 297| Hard       | [Serialize and Deserialize Binary Tree](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/problem.md) | [Java](leetcode/297-Hard-Serialize-And-Deserialize-Binary-Tree/answer.java) |
 | 301| Hard       | [Remove Invalid Parentheses](leetcode/301-Hard-Remove-Invalid-Parentheses/problem.md)        | [Python](leetcode/301-Hard-Remove-Invalid-Parentheses/answer.py)  |
 | 310| Medium     | [Minimum Height Trees](leetcode/310-Medium-Minimum-Height-Trees/problem.md)                  | [Python](leetcode/310-Medium-Minimum-Height-Trees/answer.py)      |
