@@ -5,6 +5,7 @@ public class Solution {
 	        	return s;
         // Create string buffer to hold string buffer for each row
 	    StringBuffer[] result = new StringBuffer[numRows];
+	    // easy to maintain
 	    for (int i = 0; i < numRows; i++){
 	        result[i] = new StringBuffer();
 	    }
