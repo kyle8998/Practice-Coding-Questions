@@ -141,6 +141,7 @@ Personal Practice Set - Doing One a Day (sometimes) in a Variety of Languages (M
 | 535| Medium     | [Encode and Decode TinyURL](leetcode/535-Medium-Encode-And-Decode-TinyURL/problem.md)        | [Python](leetcode/535-Medium-Encode-And-Decode-TinyURL/answer.py) |
 | 733| Easy       | [Flood Fill](leetcode/733-Easy-Flood-Fill/problem.md)                                        | [Python](leetcode/733-Easy-Flood-Fill/answer.py)                  |
 | 771| Easy       | [Jewels and Stones](leetcode/771-Easy-Jewels-And-Stones/problem.md)                          | [Python](leetcode/771-Easy-Jewels-And-Stones/answer.py)           |
+|1114| Easy       | [Print in Order](leetcode/1114-Easy-Print-In-Order/problem.md)                               | [Python](leetcode/1114-Easy-Print-In-Order/answer.py)             |
 
 ---
 
